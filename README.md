@@ -1,7 +1,7 @@
 # TTTAI - Terrific Themed Tinder AI app
 
 I will mainly follow the tutorial, with a few changes. Instead of the usual Tinder app, I will try to make it easy to
-implement different themes to chose from - Cats, dogs etc. This will be more fun than a Tinder app.
+implement different themes to chose from - cats, dogs etc. This will be more fun than a Tinder app.
 
 ## Links
 
@@ -15,6 +15,19 @@ implement different themes to chose from - Cats, dogs etc. This will be more fun
 ## Backend
 
 I will probably not make any big changes here. Just adjust the models where needed.
+
+### Application Properties
+
+I'm using a local property file instead of an environment variable.
+
+Create a file in ***src/main/resources*** called `application-local.properties`. It should look something like this:
+
+```
+spring.application.name=terrific-themed-tinder-ai-backend
+spring.ai.openai.api-key=<ADD YOUR KEY HERE>
+```
+
+Don't forget to add Your own values.
 
 ## Frontend
 
