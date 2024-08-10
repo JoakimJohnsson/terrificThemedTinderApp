@@ -1,4 +1,4 @@
-package tttai.se.terrific_themed_tinder_ai_backend.profiles;
+package tttai.se.terrificthemedtinderaibackend.profiles;
 
 public record Profile(
         String id,
