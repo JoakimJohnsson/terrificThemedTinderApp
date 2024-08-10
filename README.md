@@ -1,7 +1,8 @@
 # TTTAI - Terrific Themed Tinder AI app
 
-I will mainly follow the tutorial, with a few changes. Instead of the usual Tinder app, I will try to make it easy to
-implement different themes to chose from - cats, dogs etc. This will be more fun than a Tinder app.
+An application based off the brilliant Java Brains Tinder App tutorial. I will mainly follow the tutorial, but make a
+few changes. Instead of the usual Tinder app, I will try to make it easy to implement different themes to chose from -
+cats, dogs etc. This will be more fun than a Tinder app.
 
 ## Links
 
