@@ -10,7 +10,7 @@ public final class ApplicationUtils {
     }
 
     public static <T, ID> void printRepositoryContent(MongoRepository<T, ID> repository) {
-        System.out.println("Printing repository content:");
+        System.out.println("      ...printing repository content:");
         repository.findAll().forEach(System.out::println);
     }
 }

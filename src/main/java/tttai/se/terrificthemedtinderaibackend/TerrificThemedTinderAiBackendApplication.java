@@ -21,17 +21,23 @@ import static tttai.se.terrificthemedtinderaibackend.ApplicationUtils.printRepos
 public class TerrificThemedTinderAiBackendApplication implements CommandLineRunner {
 
     @Autowired
-    private ProfileRepository profileRepository;
-    @Autowired
     private ConversationRepository conversationRepository;
+    @Autowired
+    private ProfileRepository profileRepository;
 
     public static void main(String[] args) {
         SpringApplication.run(TerrificThemedTinderAiBackendApplication.class, args);
     }
 
     public void run(String... args) {
-        System.out.println("TTTAI App is running!");
-        System.out.println("Creating first profile!");
+
+        System.out.println("TTTAI App is running...");
+
+        System.out.println("   ...preparing repositories");
+        conversationRepository.deleteAll();
+        profileRepository.deleteAll();
+
+        System.out.println("   ...creating a profile");
         Profile profile = new Profile(
                 "1",
                 "Joakim",
@@ -44,10 +50,10 @@ public class TerrificThemedTinderAiBackendApplication implements CommandLineRunn
                 "I'm a hoot!",
                 "image/url"
         );
-		profileRepository.save(profile);
-		System.out.println("Profile created:");
-		printRepositoryContent(profileRepository);
-        System.out.println("Creating first conversation!");
+        profileRepository.save(profile);
+        printRepositoryContent(profileRepository);
+
+        System.out.println("   ...creating a conversation");
         Conversation conversation = new Conversation(
                 "1",
                 profile.id(),
