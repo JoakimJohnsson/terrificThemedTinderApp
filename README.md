@@ -26,9 +26,17 @@ Create a file in ***src/main/resources*** called `application-local.properties`.
 ```
 spring.application.name=terrific-themed-tinder-ai-backend
 spring.ai.openai.api-key=<ADD YOUR KEY HERE>
+spring.ai.openai.chat.options.model=gpt-4o
+spring.ai.openai.chat.options.temperature=0.7
+
+# User's profile
+tinderai.character.user={id:'1', firstName:'Some', lastName:'Dude', age:43, ethnicity:'Black', gender:'MALE', bio:'Software engineer, teacher and learner. I like reading and making things.', imageUrl:'', myersBriggsPersonalityType:'INTP'}
 ```
 
 Don't forget to add Your own values.
+
+### Spring AI - OpenAI
+> Note - When using a newer Spring AI version ( > v1.0.0 ) - Use OpenAiChatModel instead of OpenAiChatClient.
 
 ## Frontend
 

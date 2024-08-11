@@ -5,11 +5,11 @@ public record Profile(
         String firstName,
         String lastName,
         int age,
-        String personalityType,     // used to help randomize profiles
-        Gender gender,
         String ethnicity,           // specifies breed/race
-        ProfileType profileType,    // cat, dog... etc.
+        Gender gender,
         String bio,
-        String imageUrl
+        String imageUrl,
+        String myersBriggsPersonalityType,     // used to help randomize profiles
+        ProfileType profileType    // cat, dog... etc.
 ) {
 }
