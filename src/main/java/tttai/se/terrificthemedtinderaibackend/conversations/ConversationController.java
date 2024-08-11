@@ -1,10 +1,7 @@
 package tttai.se.terrificthemedtinderaibackend.conversations;
 
 import org.springframework.http.HttpStatus;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 import tttai.se.terrificthemedtinderaibackend.profiles.ProfileRepository;
 
@@ -37,6 +34,12 @@ public class ConversationController {
         conversationRepository.save(conversation);
         printRepositoryContent(conversationRepository);
         return conversation;
+    }
+
+    @GetMapping("conversations/{conversationId}")
+    public Conversation getConversation(@PathVariable String conversationId) {
+        return conversationRepository.findById(conversationId)
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Conversation not found. ID: " + conversationId));
     }
 
     @PostMapping("conversations/{conversationId}")
