@@ -17,9 +17,7 @@ public class TerrificThemedTinderAiBackendApplication implements CommandLineRunn
     }
 
     public void run(String... args) {
-
         System.out.println("TTTAI App is running...");
         profileCreationService.saveProfilesToDB();
-
     }
 }

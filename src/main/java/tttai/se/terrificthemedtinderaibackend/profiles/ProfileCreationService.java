@@ -14,9 +14,10 @@ import static tttai.se.terrificthemedtinderaibackend.ApplicationUtils.printRepos
 public class ProfileCreationService {
 
     private static final String PROFILES_FILE_PATH = "profiles.json";
+    // User profile from properties file
     @Value("#{${tinderai.character.user}}")
     private Map<String, String> userProfileProperties;
-    private ProfileRepository profileRepository;
+    private final ProfileRepository profileRepository;
 
     public ProfileCreationService(ProfileRepository profileRepository) {
         this.profileRepository = profileRepository;
