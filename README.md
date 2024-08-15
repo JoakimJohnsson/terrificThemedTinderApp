@@ -36,10 +36,19 @@ tinderai.character.user={id:'1', firstName:'Some', lastName:'Dude', age:43, ethn
 Don't forget to add Your own values.
 
 ### Spring AI - OpenAI
+
 > Note - When using a newer Spring AI version ( > v1.0.0 ) - Use OpenAiChatModel instead of OpenAiChatClient.
 
 ## Frontend
 
-I will not create a separate frontend project for this. The React app will use TypeScript and is located in `src/main/frontend`.
+I will not create a separate frontend project for this. The React app will use TypeScript and is located
+in `src/main/frontend`.
 
-I will use FontAwesome Pro icons. And try out the Bulma css framework. I will also use Google fonts.
+### Font Awesome
+
+TBA 
+
+### Bulma
+
+Bulma can be customized [here](https://bulma.io/documentation/start/alternative-versions/). Adjust and add changes
+to `theme.css`. There, I have also added new Google fonts for this project.

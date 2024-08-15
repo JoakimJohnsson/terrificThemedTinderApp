@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+:root {
+    --bulma-scheme-h: 65;
+    --bulma-scheme-s: 20%;
+    --bulma-light-l: 100%;
+    --bulma-family-primary: Nunito Sans,SF Pro,Segoe UI,Roboto,Oxygen,Ubuntu,Helvetica,Arial,sans-serif;
+    --bulma-family-secondary: Nunito Sans,SF Pro,Segoe UI,Roboto,Oxygen,Ubuntu,Helvetica,Arial,sans-serif;
+}
+

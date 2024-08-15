@@ -1,4 +1,5 @@
 import 'bulma/css/bulma.min.css';
+import './assets/theme.css';
 
 function App() {
 
