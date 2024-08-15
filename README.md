@@ -40,4 +40,6 @@ Don't forget to add Your own values.
 
 ## Frontend
 
+I will not create a separate frontend project for this. The React app will use TypeScript and is located in `src/main/frontend`.
+
 I will use FontAwesome Pro icons. And try out the Bulma css framework. I will also use Google fonts.
