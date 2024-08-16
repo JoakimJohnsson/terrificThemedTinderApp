@@ -1,21 +1,14 @@
-import 'bulma/css/bulma.min.css';
-import './assets/theme.css';
-import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faTimes} from "@fortawesome/pro-thin-svg-icons";
-import {faTimes as faTimesSharp} from "@fortawesome/sharp-duotone-solid-svg-icons";
+import './assets/main.scss';
+import {Header} from "./components/Header.tsx";
+import {Footer} from "./components/Footer.tsx";
+
 
 function App() {
-
     return (
         <>
-            <section className="section">
+            <Header/>
+            <main className="section">
                 <div className="container has-text-centered">
-                    <div className="mb-5">
-                        <h1 className={"title mb-0"}>Terrific Themed Tinder AI app</h1>
-                        <FontAwesomeIcon icon={faTimesSharp} size={"3x"}/>
-                        <FontAwesomeIcon icon={faTimes} size={"3x"}/>
-                        <FontAwesomeIcon icon={faTimesSharp} size={"3x"}/>
-                    </div>
                     <p className="subtitle mb-0">
                         My first website with <strong className="has-text-primary">Bulma</strong>!
                     </p>
@@ -23,7 +16,8 @@ function App() {
                         This is the Terrific Themed Tinder AI app!
                     </p>
                 </div>
-            </section>
+            </main>
+            <Footer/>
         </>
     )
 }

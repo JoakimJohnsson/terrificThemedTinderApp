@@ -1,0 +1,13 @@
+@use "bulma/sass/layout/container";
+@use "bulma/sass/layout/footer";
+@use "bulma/sass/layout/hero";
+@use "bulma/sass/layout/level";
+@use "bulma/sass/layout/media";
+
+// Load the section component with custom variables
+@use "bulma/sass/layout/section" with (
+  $section-padding: 2rem,
+  $section-padding-desktop: 5rem
+  // $section-padding-medium: 9rem 4.5rem !default;
+  // $section-padding-large: 18rem 6rem !default;
+);
