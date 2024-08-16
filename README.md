@@ -46,9 +46,9 @@ in `src/main/frontend`.
 
 ### Font Awesome
 
-TBA 
+I will use Font Awesome pro instead of Lucide React. 
 
 ### Bulma
-
+I will use Bulma instead of TailWind.
 Bulma can be customized [here](https://bulma.io/documentation/start/alternative-versions/). Adjust and add changes
 to `theme.css`. There, I have also added new Google fonts for this project.
