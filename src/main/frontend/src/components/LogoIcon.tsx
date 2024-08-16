@@ -7,10 +7,10 @@ import { LogoIconProps } from "../types.tsx";
 
 export const LogoIcon: FC<LogoIconProps> = ({size = "1x"}) => {
     return (
-        <>
+        <div>
             <FontAwesomeIcon icon={faTimesSharp} size={size}/>
             <FontAwesomeIcon icon={faTimes} size={size}/>
             <FontAwesomeIcon icon={faTimesSharp} size={size}/>
-        </>
+        </div>
     )
 }
