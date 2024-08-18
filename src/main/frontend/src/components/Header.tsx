@@ -1,13 +1,14 @@
 import {LogoIcon} from "./LogoIcon.tsx";
+import {APP_NAME_SHORT} from "../assets/constants.tsx";
 
 
 export const Header = () => {
     return (
         <header className="section pb-2">
             <nav className="navbar" role="navigation" aria-label="Main navigation">
-                <div className="navbar-brand">
-                    <a className={"navbar-item has-text-weight-bold"}>
-                        TTTAI <LogoIcon/>
+                <div className="navbar-brand mr-5">
+                    <a className={"navbar-item has-text-weight-bold is-flex is-align-items-center"}>
+                        <LogoIcon size={"2x"}/> <span>{APP_NAME_SHORT}</span>
                     </a>
                     <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false"
                        data-target="navbarBasicExample">
@@ -23,7 +24,10 @@ export const Header = () => {
                             Home
                         </a>
                         <a className="navbar-item">
-                            Documentation
+                            Themes
+                        </a>
+                        <a className="navbar-item">
+                            Theme editor
                         </a>
                     </div>
                     <div className="navbar-end">
