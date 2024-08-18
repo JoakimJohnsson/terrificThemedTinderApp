@@ -22,7 +22,7 @@ export const MOCK_PROFILES: Profile[] = [
         lastName: "Smith",
         age: 35,
         ethnicity: "Asian",
-        gender: "MALE",
+        gender: "UNDEFINED",
         bio: "A passionate photographer who enjoys traveling and exploring new cultures.",
         imageUrl: "http://localhost:8080/images/0efd4353-dd34-42bb-b26f-0ee85278e099.jpg",
         myersBriggsPersonalityType: "ENFP",
@@ -37,6 +37,18 @@ export const MOCK_PROFILES: Profile[] = [
         gender: "NON_BINARY",
         bio: "An artist who loves painting and spending time in nature. Avid animal lover.",
         imageUrl: "http://localhost:8080/images/3a3dcdbb-8d31-4229-8e07-8338d6ad4ade.jpg",
+        myersBriggsPersonalityType: "INFP",
+        profileType: "HOOMAN"
+    },
+    {
+        id: "342345235",
+        firstName: "Benny",
+        lastName: "Hill",
+        age: 45,
+        ethnicity: "Black",
+        gender: "MALE",
+        bio: "An IT hack who loves fighting on internetz and spending time in nature. Avid animal and people hater.",
+        imageUrl: "http://localhost:8080/images/5ad08626-0b72-4f8c-9441-baa62667a702.jpg",
         myersBriggsPersonalityType: "INFP",
         profileType: "HOOMAN"
     }

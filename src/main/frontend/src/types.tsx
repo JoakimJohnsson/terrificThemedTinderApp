@@ -19,7 +19,12 @@ export type Profile = {
 
 export interface LogoIconProps {
     size?: LogoIconSize;
+}
 
-}export interface ProfileSelectorProps {
+export interface GenderIconProps {
+    gender?: Gender;
+}
+
+export interface ProfileViewerProps {
     profile?: Profile;
 }
