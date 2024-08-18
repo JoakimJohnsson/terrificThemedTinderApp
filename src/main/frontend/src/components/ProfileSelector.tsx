@@ -6,7 +6,7 @@ export const ProfileSelector: FC<ProfileSelectorProps> = ({profile}) => {
 
     return profile && (
         <div className={"content"}>
-            <img src={profile.imageUrl} alt={profile.firstName}/>
+            <img className={"has-border-radius-lg"} src={profile.imageUrl} alt={profile.firstName}/>
             <div>
                 <h2>{profile.firstName} {profile.lastName}</h2>
                 <p>Age: {profile.age}</p>

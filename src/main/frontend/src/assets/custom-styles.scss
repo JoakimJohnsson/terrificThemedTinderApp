@@ -1,0 +1,19 @@
+@import "bulma/sass/utilities/initial-variables";
+@import "bulma/sass/utilities/derived-variables";
+
+// Borders
+.has-border {
+  border: 1px solid $primary;
+}
+
+.has-border-radius {
+  border-radius: $radius;
+}
+
+.has-border-radius-md {
+  border-radius: $radius-medium;
+}
+
+.has-border-radius-lg {
+  border-radius: $radius-large;
+}
