@@ -25,10 +25,12 @@ export const Main = () => {
         <main className="section pt-3">
             <div className="container has-text-centered">
                 <h1 className={"title"}>{APP_NAME}</h1>
-                <FontAwesomeIcon icon={faUser} size={"2x"} className={"mr-2"}/>
-                <FontAwesomeIcon icon={faMessage} size={"2x"} className={"mr-2"}/>
+                <div className={"content"}>
+                    <FontAwesomeIcon icon={faUser} size={"2x"} className={"mr-2"}/>
+                    <FontAwesomeIcon icon={faMessage} size={"2x"} className={"mr-2"}/>
+                </div>
                 <ProfileSelector profile={MOCK_PROFILES[selectedIndex]}/>
-                <div className="has-text-centered mt-4">
+                <div className="has-text-centered mt-4 content">
                     <button className="button is-primary mr-2" onClick={handlePrevious}>
                         Previous
                     </button>
