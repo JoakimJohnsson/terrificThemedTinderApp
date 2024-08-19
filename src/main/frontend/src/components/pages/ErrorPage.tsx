@@ -25,14 +25,12 @@ export const ErrorPage = () => {
 
     return (
         <>
-        <Header/>
-            <main className="section pt-3">
+            <Header/>
             <div className="container">
-                <h1 className={"title"}>{PAGES.ERROR_PAGE.NAME}</h1>
+                <h1 className={"title is-1"}>{PAGES.ERROR_PAGE.NAME}</h1>
                 <p className={"subtitle"}>Sorry, an unexpected error has occurred.</p>
                 <p>{status && status + " - "} {errorMessage}</p>
             </div>
-            </main>
             <Footer/>
         </>
     )

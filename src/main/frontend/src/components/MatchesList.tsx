@@ -1,10 +1,7 @@
-
-
-
 export const MatchesList = () => {
     return (
-        <div className="section pb-2">
-
+        <div>
+            <h2 className={"subtitle is-2"}>List of matches</h2>
             <ul>
                 <li>
                     lista
@@ -19,7 +16,6 @@ export const MatchesList = () => {
                     lista
                 </li>
             </ul>
-
         </div>
     )
 }

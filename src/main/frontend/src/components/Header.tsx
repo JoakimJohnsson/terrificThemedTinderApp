@@ -2,7 +2,7 @@ import {LogoIcon} from "./LogoIcon.tsx";
 import {PAGES} from "../assets/constants.tsx";
 import {faHeart, faUsers, faSwatchbook, faPalette} from "@fortawesome/sharp-duotone-solid-svg-icons";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {Link} from "react-router-dom";
+import {NavLink} from "react-router-dom";
 
 
 export const Header = () => {
@@ -10,18 +10,61 @@ export const Header = () => {
         <header className="section pb-2">
             <nav className="navbar" role="navigation" aria-label="Home navigation">
                 <div className="navbar-brand mr-5">
-                    <Link to={"/"} className={"navbar-item has-text-weight-bold is-flex is-align-items-center"}>
+                    <NavLink
+                        to={"/"}
+                        className={"navbar-item has-text-weight-bold is-flex is-align-items-center"}
+                    >
                         <LogoIcon size={"2x"}/>
                         <span className={"is-display-none"}>{PAGES.APP.NAME_SHORT}</span>
                         <span className={"is-display-flex"}>{PAGES.APP.NAME}</span>
-                    </Link>
+                    </NavLink>
                 </div>
                 <div id="navbarBasicExample" className="navbar-menu is-flex">
                     <div className="navbar-start">
-                        <Link to={"/profiles"} className="navbar-item"><FontAwesomeIcon icon={faUsers} size={"2x"} className={"mr-1"}/> {PAGES.PROFILES.NAME}</Link>
-                        <Link to={"/matches"} className="navbar-item"><FontAwesomeIcon icon={faHeart} size={"2x"} className={"mr-1"}/> {PAGES.MATCHES.NAME}</Link>
-                        <Link to={"/themes"} className="navbar-item"><FontAwesomeIcon icon={faSwatchbook} size={"2x"} className={"mr-1"}/> {PAGES.THEMES.NAME}</Link>
-                        <Link to={"/theme-editor"} className="navbar-item"><FontAwesomeIcon icon={faPalette} size={"2x"} className={"mr-1"}/> {PAGES.THEME_EDITOR.NAME}</Link>
+                        <NavLink
+                            to={"/profiles"}
+                            className={({isActive}) =>
+                                [
+                                    isActive ? "is-active" : "",
+                                    "navbar-item"
+                                ].join(" ")
+                            }
+                        >
+                            <FontAwesomeIcon icon={faUsers} size={"2x"} className={"mr-1"}/> {PAGES.PROFILES.NAME}
+                        </NavLink>
+                        <NavLink
+                            to={"/matches"}
+                            className={({isActive}) =>
+                                [
+                                    isActive ? "is-active" : "",
+                                    "navbar-item"
+                                ].join(" ")
+                            }
+                        >
+                            <FontAwesomeIcon icon={faHeart} size={"2x"} className={"mr-1"}/> {PAGES.MATCHES.NAME}
+                        </NavLink>
+                        <NavLink
+                            to={"/themes"}
+                            className={({isActive}) =>
+                                [
+                                    isActive ? "is-active" : "",
+                                    "navbar-item"
+                                ].join(" ")
+                            }
+                        >
+                            <FontAwesomeIcon icon={faSwatchbook} size={"2x"} className={"mr-1"}/> {PAGES.THEMES.NAME}
+                        </NavLink>
+                        <NavLink
+                            to={"/theme-editor"}
+                            className={({isActive}) =>
+                                [
+                                    isActive ? "is-active" : "",
+                                    "navbar-item"
+                                ].join(" ")
+                            }
+                        >
+                            <FontAwesomeIcon icon={faPalette} size={"2x"} className={"mr-1"}/> {PAGES.THEME_EDITOR.NAME}
+                        </NavLink>
                     </div>
                 </div>
             </nav>
