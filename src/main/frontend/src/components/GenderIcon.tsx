@@ -4,7 +4,7 @@ import {faMars, faVenus, faTimes, faQuestion} from "@fortawesome/pro-thin-svg-ic
 import {GenderIconProps} from "../types.tsx";
 
 
-export const GenderIcon: FC<GenderIconProps> = ({gender}) => {
+export const GenderIcon: FC<GenderIconProps> = ({gender, size = "1x"}) => {
 
     let icon;
     switch (gender) {
@@ -24,7 +24,7 @@ export const GenderIcon: FC<GenderIconProps> = ({gender}) => {
     }
 
     return (
-        <FontAwesomeIcon className={"fa-fw"} icon={icon} size={"3x"}/>
+        <FontAwesomeIcon className={"fa-fw"} icon={icon} size={size}/>
     )
 }
 

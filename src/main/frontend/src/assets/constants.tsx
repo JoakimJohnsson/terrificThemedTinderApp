@@ -11,14 +11,23 @@ export const PAGES = {
     HOME: {
         NAME: "Home"
     },
+    MATCH: {
+        NAME: "Match"
+    },
     MATCHES: {
         NAME: "Matches"
+    },
+    PROFILE: {
+        NAME: "Profile"
     },
     PROFILES: {
         NAME: "Profiles"
     },
     THEME_EDITOR: {
         NAME: "Theme editor"
+    },
+    THEME: {
+        NAME: "Theme"
     },
     THEMES: {
         NAME: "Themes"
