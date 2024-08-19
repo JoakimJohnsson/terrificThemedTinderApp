@@ -1,7 +1,29 @@
 import {Profile} from "../types.tsx";
 
-export const APP_NAME: string = "Terrific Themed Tinder AI App";
-export const APP_NAME_SHORT: string = "TTTAIA";
+export const PAGES = {
+    APP: {
+        NAME: "Terrific Themed Tinder AI App",
+        NAME_SHORT: "TTTAIA"
+    },
+    ERROR_PAGE: {
+        NAME: "Ooops!"
+    },
+    HOME: {
+        NAME: "Home"
+    },
+    MATCHES: {
+        NAME: "Matches"
+    },
+    PROFILES: {
+        NAME: "Profiles"
+    },
+    THEME_EDITOR: {
+        NAME: "Theme editor"
+    },
+    THEMES: {
+        NAME: "Themes"
+    }
+}
 
 export const MOCK_PROFILES: Profile[] = [
     {

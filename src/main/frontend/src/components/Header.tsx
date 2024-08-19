@@ -1,46 +1,27 @@
 import {LogoIcon} from "./LogoIcon.tsx";
-import {APP_NAME_SHORT} from "../assets/constants.tsx";
+import {PAGES} from "../assets/constants.tsx";
+import {faHeart, faUsers, faSwatchbook, faPalette} from "@fortawesome/sharp-duotone-solid-svg-icons";
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+import {Link} from "react-router-dom";
 
 
 export const Header = () => {
     return (
         <header className="section pb-2">
-            <nav className="navbar" role="navigation" aria-label="Main navigation">
+            <nav className="navbar" role="navigation" aria-label="Home navigation">
                 <div className="navbar-brand mr-5">
-                    <a className={"navbar-item has-text-weight-bold is-flex is-align-items-center"}>
-                        <LogoIcon size={"2x"}/> <span>{APP_NAME_SHORT}</span>
-                    </a>
-                    <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false"
-                       data-target="navbarBasicExample">
-                        <span aria-hidden="true"></span>
-                        <span aria-hidden="true"></span>
-                        <span aria-hidden="true"></span>
-                        <span aria-hidden="true"></span>
-                    </a>
+                    <Link to={"/"} className={"navbar-item has-text-weight-bold is-flex is-align-items-center"}>
+                        <LogoIcon size={"2x"}/>
+                        <span className={"is-display-none"}>{PAGES.APP.NAME_SHORT}</span>
+                        <span className={"is-display-flex"}>{PAGES.APP.NAME}</span>
+                    </Link>
                 </div>
-                <div id="navbarBasicExample" className="navbar-menu">
+                <div id="navbarBasicExample" className="navbar-menu is-flex">
                     <div className="navbar-start">
-                        <a className="navbar-item">
-                            Home
-                        </a>
-                        <a className="navbar-item">
-                            Themes
-                        </a>
-                        <a className="navbar-item">
-                            Theme editor
-                        </a>
-                    </div>
-                    <div className="navbar-end">
-                        <div className="navbar-item">
-                            <div className="buttons">
-                                <a className="button is-primary">
-                                    <strong>Sign up</strong>
-                                </a>
-                                <a className="button is-light">
-                                    Log in
-                                </a>
-                            </div>
-                        </div>
+                        <Link to={"/profiles"} className="navbar-item"><FontAwesomeIcon icon={faUsers} size={"2x"} className={"mr-1"}/> {PAGES.PROFILES.NAME}</Link>
+                        <Link to={"/matches"} className="navbar-item"><FontAwesomeIcon icon={faHeart} size={"2x"} className={"mr-1"}/> {PAGES.MATCHES.NAME}</Link>
+                        <Link to={"/themes"} className="navbar-item"><FontAwesomeIcon icon={faSwatchbook} size={"2x"} className={"mr-1"}/> {PAGES.THEMES.NAME}</Link>
+                        <Link to={"/theme-editor"} className="navbar-item"><FontAwesomeIcon icon={faPalette} size={"2x"} className={"mr-1"}/> {PAGES.THEME_EDITOR.NAME}</Link>
                     </div>
                 </div>
             </nav>
