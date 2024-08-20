@@ -8,6 +8,7 @@ export type Profile = {
     id: string;
     firstName: string;
     lastName: string;
+    nickName: string;
     age: number;
     ethnicity: string;
     gender: Gender;
@@ -28,4 +29,8 @@ export interface GenderIconProps {
 
 export interface ProfileViewerProps {
     profile?: Profile;
+}
+
+export type MatchParams = {
+    id: string;
 }

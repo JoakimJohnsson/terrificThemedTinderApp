@@ -1,4 +1,4 @@
-import './assets/main.scss';
+import "./assets/main.scss";
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
 import {Layout} from "./Layout.tsx";
 import {ErrorPage} from "./components/pages/ErrorPage.tsx";

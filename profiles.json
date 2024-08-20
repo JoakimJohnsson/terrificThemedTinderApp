@@ -8,7 +8,8 @@
     "gender": "FEMALE",
     "bio": "Passionate about travel, photography, and new adventures. Always up for a good book and deep conversations. Let\u0027s explore the world together!",
     "imageUrl": "8b0e4a15-95c2-45bd-937d-f001a8bfbfec.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "a4e6d728-17e2-48ca-ba4c-6b980dee7001",
@@ -19,7 +20,8 @@
     "gender": "FEMALE",
     "bio": "Creative soul with a love for music and art. Enjoys outdoor activities and spontaneous road trips. Looking for someone to share life\u0027s beautiful moments.",
     "imageUrl": "a4e6d728-17e2-48ca-ba4c-6b980dee7001.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "NiBBaPls"
   },
   {
     "id": "f8cb8344-862e-435d-b58a-15e0dcc87ac3",
@@ -30,7 +32,8 @@
     "gender": "FEMALE",
     "bio": "Tech enthusiast and foodie. I enjoy coding by day and exploring new cuisines by night. Let\u0027s create something amazing together!",
     "imageUrl": "f8cb8344-862e-435d-b58a-15e0dcc87ac3.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "AceOfShadows"
   },
   {
     "id": "d69116e9-2e3e-45b0-a2f5-5ee28817b475",
@@ -41,7 +44,8 @@
     "gender": "FEMALE",
     "bio": "Yoga instructor with a love for mindfulness and wellness. Enjoys reading and long walks in nature. Looking for someone who values inner peace.",
     "imageUrl": "d69116e9-2e3e-45b0-a2f5-5ee28817b475.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "BlazeNGlory"
   },
   {
     "id": "e60b37aa-461c-4d15-b06a-7745e88dd84a",
@@ -52,7 +56,8 @@
     "gender": "FEMALE",
     "bio": "Salsa dancer and fitness fanatic. Love to laugh and live life to the fullest. Seeking someone who can keep up with my energy!",
     "imageUrl": "e60b37aa-461c-4d15-b06a-7745e88dd84a.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "SparkyTheSpark"
   },
   {
     "id": "83ea9e3c-33f2-4a6b-b6a7-56a03201f044",
@@ -63,7 +68,8 @@
     "gender": "FEMALE",
     "bio": "Animal lover and aspiring vet. Enjoys hiking, volunteering at shelters, and cozy movie nights. Let\u0027s make the world a better place together.",
     "imageUrl": "83ea9e3c-33f2-4a6b-b6a7-56a03201f044.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "MaverickMoves"
   },
   {
     "id": "11d7f6dc-3164-4e1f-890f-f6e10c031d5d",
@@ -74,7 +80,8 @@
     "gender": "FEMALE",
     "bio": "Entrepreneur and coffee aficionado. Love brainstorming new ideas and making dreams come true. Let\u0027s build something great together.",
     "imageUrl": "11d7f6dc-3164-4e1f-890f-f6e10c031d5d.jpg",
-    "myersBriggsPersonalityType": "ENTP"
+    "myersBriggsPersonalityType": "ENTP",
+    "nickName": "LunaDreamscape"
   },
   {
     "id": "0fe03317-b149-4a06-ab59-c5bff50af7bb",
@@ -85,7 +92,8 @@
     "gender": "FEMALE",
     "bio": "Artist and gamer. Enjoys painting, video games, and exploring new tech. Looking for someone who shares my passions.",
     "imageUrl": "0fe03317-b149-4a06-ab59-c5bff50af7bb.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "DashToInfinity"
   },
   {
     "id": "4e6c9063-7de7-44f6-800d-9e9df2e6cb1a",
@@ -96,7 +104,8 @@
     "gender": "FEMALE",
     "bio": "Doctor with a love for helping others. Enjoys traveling, cooking, and spending time with family. Looking for someone kind-hearted and genuine.",
     "imageUrl": "4e6c9063-7de7-44f6-800d-9e9df2e6cb1a.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "ShadowStriker"
   },
   {
     "id": "97da7cbd-cd8b-4629-a95c-5b157a3464b5",
@@ -107,7 +116,8 @@
     "gender": "FEMALE",
     "bio": "Journalist and storyteller. Passionate about discovering new cultures and sharing their stories. Let\u0027s write our own adventure.",
     "imageUrl": "97da7cbd-cd8b-4629-a95c-5b157a3464b5.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "EchoOfTheVoid"
   },
   {
     "id": "10e1b8c7-c47c-43c9-a127-c52fc827bb2a",
@@ -118,7 +128,8 @@
     "gender": "FEMALE",
     "bio": "Chef and food lover. Enjoys creating delicious dishes and trying new recipes. Seeking someone who appreciates good food and great company.",
     "imageUrl": "10e1b8c7-c47c-43c9-a127-c52fc827bb2a.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "TitanForce"
   },
   {
     "id": "19b623c8-c187-4464-a934-4af83d0c299b",
@@ -129,7 +140,8 @@
     "gender": "FEMALE",
     "bio": "Fashion designer with a flair for creativity. Loves to travel and find inspiration in new places. Let\u0027s make a stylish statement together.",
     "imageUrl": "19b623c8-c187-4464-a934-4af83d0c299b.jpg",
-    "myersBriggsPersonalityType": "ESTP"
+    "myersBriggsPersonalityType": "ESTP",
+    "nickName": "NovaGlow"
   },
   {
     "id": "c6120bb7-b841-4709-8c67-732945c2481a",
@@ -140,7 +152,8 @@
     "gender": "FEMALE",
     "bio": "Teacher and lifelong learner. Enjoys reading, traveling, and exploring new cultures. Looking for someone who values growth and learning.",
     "imageUrl": "c6120bb7-b841-4709-8c67-732945c2481a.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "PhoenixRising_"
   },
   {
     "id": "3b0bffe0-91a0-4937-949a-dff34e2a77f7",
@@ -151,7 +164,8 @@
     "gender": "FEMALE",
     "bio": "Student and aspiring scientist. Passionate about research and discovery. Seeking someone who shares my curiosity and drive.",
     "imageUrl": "3b0bffe0-91a0-4937-949a-dff34e2a77f7.jpg",
-    "myersBriggsPersonalityType": "ISTJ"
+    "myersBriggsPersonalityType": "ISTJ",
+    "nickName": "Raptor_Wings"
   },
   {
     "id": "060a0b27-ec59-4a99-b4cb-234ffe0d1e1d",
@@ -162,7 +176,8 @@
     "gender": "FEMALE",
     "bio": "Photographer and nature enthusiast. Enjoys capturing the beauty of the world and spending time outdoors. Let\u0027s explore and create together.",
     "imageUrl": "060a0b27-ec59-4a99-b4cb-234ffe0d1e1d.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "StormChaser_X"
   },
   {
     "id": "de9ce091-fe68-40ca-a3fa-87f1869979c6",
@@ -173,7 +188,8 @@
     "gender": "FEMALE",
     "bio": "Student and athlete. Loves running, yoga, and staying active. Looking for someone who enjoys a healthy and active lifestyle.",
     "imageUrl": "de9ce091-fe68-40ca-a3fa-87f1869979c6.jpg",
-    "myersBriggsPersonalityType": "ESTJ"
+    "myersBriggsPersonalityType": "ESTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "ec49a9e7-c47f-44be-acd5-d80648752347",
@@ -184,7 +200,8 @@
     "gender": "FEMALE",
     "bio": "Engineer and problem-solver. Enjoys building things and taking on new challenges. Seeking someone who loves to innovate and create.",
     "imageUrl": "ec49a9e7-c47f-44be-acd5-d80648752347.jpg",
-    "myersBriggsPersonalityType": "ENTJ"
+    "myersBriggsPersonalityType": "ENTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "8b15ead6-f2d4-40ea-a26b-bb77ca86339e",
@@ -195,7 +212,8 @@
     "gender": "FEMALE",
     "bio": "Writer and dreamer. Loves crafting stories and getting lost in a good book. Looking for someone who appreciates the magic of words.",
     "imageUrl": "8b15ead6-f2d4-40ea-a26b-bb77ca86339e.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "0f441dc5-9ece-4022-9e2b-f8a9ec5d83c0",
@@ -206,7 +224,8 @@
     "gender": "FEMALE",
     "bio": "Marketing professional with a passion for creativity. Enjoys exploring new trends and ideas. Let\u0027s make a mark together.",
     "imageUrl": "0f441dc5-9ece-4022-9e2b-f8a9ec5d83c0.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "a5311a12-1b86-4a29-86e8-3ea35ba82a83",
@@ -217,7 +236,8 @@
     "gender": "FEMALE",
     "bio": "Therapist and listener. Passionate about helping others and making a difference. Looking for someone kind and compassionate.",
     "imageUrl": "a5311a12-1b86-4a29-86e8-3ea35ba82a83.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "ViperStrike"
   },
   {
     "id": "43d7e684-71ad-4d65-bddc-f0b8f97f9cd3",
@@ -228,7 +248,8 @@
     "gender": "FEMALE",
     "bio": "Graphic designer with a love for art and aesthetics. Enjoys museums, painting, and coffee shops. Let\u0027s create something beautiful together.",
     "imageUrl": "43d7e684-71ad-4d65-bddc-f0b8f97f9cd3.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "GhostlyWhispers"
   },
   {
     "id": "5377f0f1-cdee-49ee-af3e-96ff692cd1d3",
@@ -239,7 +260,8 @@
     "gender": "FEMALE",
     "bio": "Fitness instructor and health enthusiast. Passionate about living a healthy lifestyle and inspiring others. Looking for a workout buddy!",
     "imageUrl": "5377f0f1-cdee-49ee-af3e-96ff692cd1d3.jpg",
-    "myersBriggsPersonalityType": "ESTP"
+    "myersBriggsPersonalityType": "ESTP",
+    "nickName": "Kitten"
   },
   {
     "id": "656b4549-c254-4ed7-ab08-b63aeea9cf45",
@@ -250,7 +272,8 @@
     "gender": "FEMALE",
     "bio": "Software developer and gamer. Loves coding, gaming, and discovering new technologies. Seeking someone who shares my geeky passions.",
     "imageUrl": "656b4549-c254-4ed7-ab08-b63aeea9cf45.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "RocketRider"
   },
   {
     "id": "85667b25-b96a-4320-9690-5b27f3fcd2bf",
@@ -261,7 +284,8 @@
     "gender": "FEMALE",
     "bio": "Musician and poet. Enjoys playing guitar, writing lyrics, and performing. Let\u0027s make some music together.",
     "imageUrl": "85667b25-b96a-4320-9690-5b27f3fcd2bf.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "ThorThunder"
   },
   {
     "id": "a7911854-a8e0-405f-84f5-0b03a70f90d8",
@@ -272,7 +296,8 @@
     "gender": "FEMALE",
     "bio": "Dancer and choreographer. Loves dancing, traveling, and experiencing new cultures. Looking for someone who can keep up with my rhythm.",
     "imageUrl": "a7911854-a8e0-405f-84f5-0b03a70f90d8.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "b6be8239-704b-4335-aa60-750795473d70",
@@ -283,7 +308,8 @@
     "gender": "FEMALE",
     "bio": "Lawyer with a passion for justice. Enjoys debating, reading, and volunteering. Seeking someone who values honesty and integrity.",
     "imageUrl": "b6be8239-704b-4335-aa60-750795473d70.jpg",
-    "myersBriggsPersonalityType": "ENTJ"
+    "myersBriggsPersonalityType": "ENTJ",
+    "nickName": "ValkyrieValor"
   },
   {
     "id": "29744e3c-4fc0-48da-aa9d-098673ac6a47",
@@ -294,7 +320,8 @@
     "gender": "FEMALE",
     "bio": "Fashion blogger and stylist. Loves creating unique looks and inspiring others with fashion. Let\u0027s make a stylish impact together.",
     "imageUrl": "29744e3c-4fc0-48da-aa9d-098673ac6a47.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "JinxedSoul"
   },
   {
     "id": "608e55f4-3531-485f-b7ce-8fb158b1c9e4",
@@ -305,7 +332,8 @@
     "gender": "FEMALE",
     "bio": "Architect and designer. Passionate about creating spaces that inspire. Looking for someone who appreciates creativity and innovation.",
     "imageUrl": "608e55f4-3531-485f-b7ce-8fb158b1c9e4.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Ember_Flame"
   },
   {
     "id": "d6c7a464-dfb1-4f93-a19c-c7b63d0100e9",
@@ -316,7 +344,8 @@
     "gender": "FEMALE",
     "bio": "Data scientist and numbers enthusiast. Enjoys analyzing data and discovering patterns. Seeking someone who loves solving puzzles.",
     "imageUrl": "d6c7a464-dfb1-4f93-a19c-c7b63d0100e9.jpg",
-    "myersBriggsPersonalityType": "ISTP"
+    "myersBriggsPersonalityType": "ISTP",
+    "nickName": "BanditInBlack"
   },
   {
     "id": "28daa0f4-9fa3-4e1c-ab06-113b1d1ed8f4",
@@ -327,7 +356,8 @@
     "gender": "FEMALE",
     "bio": "Student and aspiring journalist. Passionate about storytelling and uncovering the truth. Let\u0027s explore the world through words.",
     "imageUrl": "28daa0f4-9fa3-4e1c-ab06-113b1d1ed8f4.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "b8c0c0a3-b7f5-4d20-bb07-619fec70dac5",
@@ -338,7 +368,8 @@
     "gender": "FEMALE",
     "bio": "Veterinarian and animal lover. Enjoys caring for animals and spending time outdoors. Looking for someone who shares my compassion for animals.",
     "imageUrl": "b8c0c0a3-b7f5-4d20-bb07-619fec70dac5.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "0b1273d4-ab2f-4edd-858b-6f1ff1071fb9",
@@ -349,7 +380,8 @@
     "gender": "FEMALE",
     "bio": "Chef and food critic. Passionate about cooking and discovering new restaurants. Seeking someone who loves good food and great conversations.",
     "imageUrl": "0b1273d4-ab2f-4edd-858b-6f1ff1071fb9.jpg",
-    "myersBriggsPersonalityType": "ENTP"
+    "myersBriggsPersonalityType": "ENTP",
+    "nickName": "Kitten"
   },
   {
     "id": "b2981f22-6f33-4ac3-97ef-4a51ddcc1449",
@@ -360,7 +392,8 @@
     "gender": "FEMALE",
     "bio": "Marketing manager and social media enthusiast. Enjoys connecting with people and creating engaging content. Let\u0027s make a mark together.",
     "imageUrl": "b2981f22-6f33-4ac3-97ef-4a51ddcc1449.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "6698b1c0-6ba2-44e0-a760-fbd4d227cb83",
@@ -371,7 +404,8 @@
     "gender": "FEMALE",
     "bio": "Entrepreneur and innovator. Passionate about starting new ventures and making a difference. Looking for someone who shares my drive and ambition.",
     "imageUrl": "6698b1c0-6ba2-44e0-a760-fbd4d227cb83.jpg",
-    "myersBriggsPersonalityType": "ENTJ"
+    "myersBriggsPersonalityType": "ENTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "24d83b53-9f3a-4392-91e6-9c8c77b48b30",
@@ -382,7 +416,8 @@
     "gender": "FEMALE",
     "bio": "Travel blogger and adventurer. Loves exploring new places and cultures. Seeking someone to share my wanderlust and adventures.",
     "imageUrl": "24d83b53-9f3a-4392-91e6-9c8c77b48b30.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "7e19ab66-fc54-4b2f-89e1-60c852961ef7",
@@ -393,7 +428,8 @@
     "gender": "FEMALE",
     "bio": "Psychologist and life coach. Passionate about helping others achieve their potential. Looking for someone who values growth and self-improvement.",
     "imageUrl": "7e19ab66-fc54-4b2f-89e1-60c852961ef7.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "910bc942-f126-4ff3-91ba-77773d87fdf7",
@@ -404,7 +440,8 @@
     "gender": "FEMALE",
     "bio": "Actress and performer. Loves the stage and bringing stories to life. Let\u0027s create some drama together (the good kind!).",
     "imageUrl": "910bc942-f126-4ff3-91ba-77773d87fdf7.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "07fb670f-f051-43d2-a0e7-227ae8ba2fa4",
@@ -415,7 +452,8 @@
     "gender": "FEMALE",
     "bio": "Research scientist with a passion for discovery. Enjoys solving complex problems and exploring the unknown. Looking for someone curious and intelligent.",
     "imageUrl": "07fb670f-f051-43d2-a0e7-227ae8ba2fa4.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "Kitten"
   },
   {
     "id": "3b0eb57d-a350-4f2d-ad2b-4e37417023be",
@@ -426,7 +464,8 @@
     "gender": "FEMALE",
     "bio": "Environmental activist and nature lover. Passionate about sustainability and protecting the planet. Let\u0027s make a difference together.",
     "imageUrl": "3b0eb57d-a350-4f2d-ad2b-4e37417023be.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "TurboThrust"
   },
   {
     "id": "e1105856-de03-45d1-bded-91b836cb7ddf",
@@ -437,7 +476,8 @@
     "gender": "FEMALE",
     "bio": "Teacher and mentor. Enjoys working with kids and making a positive impact on their lives. Seeking someone who values education and compassion.",
     "imageUrl": "e1105856-de03-45d1-bded-91b836cb7ddf.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "NitroBoosted"
   },
   {
     "id": "8011f799-7801-41ab-9278-92e66b72fd98",
@@ -448,7 +488,8 @@
     "gender": "FEMALE",
     "bio": "Photographer and visual artist. Passionate about capturing moments and telling stories through images. Looking for someone who sees the world through a creative lens.",
     "imageUrl": "8011f799-7801-41ab-9278-92e66b72fd98.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "RavenBlackwing"
   },
   {
     "id": "e279ecc8-48f6-4951-89aa-b70a2b34dff1",
@@ -459,7 +500,8 @@
     "gender": "FEMALE",
     "bio": "Journalist and storyteller. Loves uncovering new stories and sharing them with the world. Let\u0027s write our own adventure.",
     "imageUrl": "e279ecc8-48f6-4951-89aa-b70a2b34dff1.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "BladeEdge"
   },
   {
     "id": "97717049-d746-40f2-8d37-dde675ca5a8a",
@@ -470,7 +512,8 @@
     "gender": "FEMALE",
     "bio": "Doctor and humanitarian. Passionate about helping others and making a positive impact. Seeking someone who shares my dedication to making the world a better place.",
     "imageUrl": "97717049-d746-40f2-8d37-dde675ca5a8a.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "OnyxHeart"
   },
   {
     "id": "2fabeac7-1617-4d33-8eef-aca1defdebd7",
@@ -481,7 +524,8 @@
     "gender": "FEMALE",
     "bio": "Software engineer and tech enthusiast. Loves coding, solving problems, and exploring new technologies. Looking for someone who shares my passion for innovation.",
     "imageUrl": "2fabeac7-1617-4d33-8eef-aca1defdebd7.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "ef33b9e5-4642-4bdb-a297-2434f5fe07a5",
@@ -492,7 +536,8 @@
     "gender": "FEMALE",
     "bio": "Chef and food lover. Enjoys experimenting with new recipes and flavors. Seeking someone who appreciates good food and great company.",
     "imageUrl": "ef33b9e5-4642-4bdb-a297-2434f5fe07a5.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "BoltOfLightning"
   },
   {
     "id": "aa81076b-9a44-469f-a397-fd23c37c1666",
@@ -503,7 +548,8 @@
     "gender": "FEMALE",
     "bio": "Nurse and caregiver. Passionate about helping others and making a difference. Looking for someone who values kindness and compassion.",
     "imageUrl": "aa81076b-9a44-469f-a397-fd23c37c1666.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "65fb9bba-5ddc-4160-a032-d65b1bc7d73f",
@@ -514,7 +560,8 @@
     "gender": "FEMALE",
     "bio": "Musician and composer. Loves creating and performing music. Seeking someone who shares my passion for the arts.",
     "imageUrl": "65fb9bba-5ddc-4160-a032-d65b1bc7d73f.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "70c2c3b5-fd7b-459b-af9d-194acd429942",
@@ -525,7 +572,8 @@
     "gender": "FEMALE",
     "bio": "Graphic designer and artist. Passionate about creating visually stunning designs. Looking for someone who appreciates art and creativity.",
     "imageUrl": "70c2c3b5-fd7b-459b-af9d-194acd429942.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "018aafd0-6a0d-4f38-b2ca-45c0c9b13fa2",
@@ -536,7 +584,8 @@
     "gender": "FEMALE",
     "bio": "Student and aspiring doctor. Passionate about medicine and helping others. Seeking someone who shares my dedication to making a difference.",
     "imageUrl": "018aafd0-6a0d-4f38-b2ca-45c0c9b13fa2.jpg",
-    "myersBriggsPersonalityType": "ISTJ"
+    "myersBriggsPersonalityType": "ISTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "98eeb593-0adb-4f18-ae1d-81db5fa3b023",
@@ -547,7 +596,8 @@
     "gender": "FEMALE",
     "bio": "Engineer and problem solver. Loves building things and finding innovative solutions. Looking for someone who shares my curiosity and drive.",
     "imageUrl": "98eeb593-0adb-4f18-ae1d-81db5fa3b023.jpg",
-    "myersBriggsPersonalityType": "ENTP"
+    "myersBriggsPersonalityType": "ENTP",
+    "nickName": "Kitten"
   },
   {
     "id": "4c8ad73c-863c-4f4a-a39e-91e0c333745f",
@@ -558,7 +608,8 @@
     "gender": "FEMALE",
     "bio": "Yoga instructor and wellness coach. Passionate about living a balanced and healthy lifestyle. Seeking someone who values mindfulness and well-being.",
     "imageUrl": "4c8ad73c-863c-4f4a-a39e-91e0c333745f.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "c1a3b87e-9a26-411f-bc00-44cf5f3acad5",
@@ -569,7 +620,8 @@
     "gender": "FEMALE",
     "bio": "Photographer and world traveler. Loves capturing moments and exploring new places. Let\u0027s create beautiful memories together.",
     "imageUrl": "c1a3b87e-9a26-411f-bc00-44cf5f3acad5.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "CobraFangs"
   },
   {
     "id": "26e19c56-99f5-41ed-9b6f-61035a861abc",
@@ -580,7 +632,8 @@
     "gender": "FEMALE",
     "bio": "Financial analyst and number cruncher. Passionate about data and discovering trends. Looking for someone who shares my analytical mind.",
     "imageUrl": "26e19c56-99f5-41ed-9b6f-61035a861abc.jpg",
-    "myersBriggsPersonalityType": "ISTJ"
+    "myersBriggsPersonalityType": "ISTJ",
+    "nickName": "VenomVibe"
   },
   {
     "id": "992c55b0-6cc1-4211-8b42-5cabbc687af2",
@@ -591,7 +644,8 @@
     "gender": "FEMALE",
     "bio": "Teacher and mentor. Passionate about educating and inspiring others. Seeking someone who values learning and growth.",
     "imageUrl": "992c55b0-6cc1-4211-8b42-5cabbc687af2.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "0eaa5932-be8c-48b0-b2b1-8dfe41002995",
@@ -602,7 +656,8 @@
     "gender": "FEMALE",
     "bio": "Marketing specialist and social media enthusiast. Loves connecting with people and creating engaging content. Let\u0027s make a difference together.",
     "imageUrl": "0eaa5932-be8c-48b0-b2b1-8dfe41002995.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "Ranger_OfTheWild"
   },
   {
     "id": "a37d947a-910c-481c-9acb-21cd0a1e3fd7",
@@ -613,7 +668,8 @@
     "gender": "FEMALE",
     "bio": "Writer and bookworm. Loves crafting stories and getting lost in a good book. Seeking someone who appreciates the magic of words.",
     "imageUrl": "a37d947a-910c-481c-9acb-21cd0a1e3fd7.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "FalconFlight"
   },
   {
     "id": "7a570c29-dec4-4812-a960-26b09d8c652d",
@@ -624,7 +680,8 @@
     "gender": "FEMALE",
     "bio": "Entrepreneur and business owner. Passionate about creating and growing new ventures. Looking for someone who shares my drive and ambition.",
     "imageUrl": "7a570c29-dec4-4812-a960-26b09d8c652d.jpg",
-    "myersBriggsPersonalityType": "ENTJ"
+    "myersBriggsPersonalityType": "ENTJ",
+    "nickName": "OrionSkyline"
   },
   {
     "id": "4f8115b3-7c84-4804-8605-ecbb3ba249b3",
@@ -635,7 +692,8 @@
     "gender": "FEMALE",
     "bio": "Artist and illustrator. Passionate about creating beautiful and meaningful art. Let\u0027s bring our imaginations to life together.",
     "imageUrl": "4f8115b3-7c84-4804-8605-ecbb3ba249b3.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Jetstreamer"
   },
   {
     "id": "880b64e0-d8f6-4b13-abc1-36d150915058",
@@ -646,7 +704,8 @@
     "gender": "FEMALE",
     "bio": "Research scientist and academic. Loves exploring new ideas and solving complex problems. Seeking someone who values knowledge and discovery.",
     "imageUrl": "880b64e0-d8f6-4b13-abc1-36d150915058.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "Kitten"
   },
   {
     "id": "9710fcd3-c627-43ab-9a51-18cabe738170",
@@ -657,7 +716,8 @@
     "gender": "FEMALE",
     "bio": "Social worker and advocate. Passionate about making a positive impact on people\u0027s lives. Looking for someone who values empathy and compassion.",
     "imageUrl": "9710fcd3-c627-43ab-9a51-18cabe738170.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "RebelRouser"
   },
   {
     "id": "e5c5ac96-fdba-47e3-bd69-e968b0aec4da",
@@ -668,7 +728,8 @@
     "gender": "FEMALE",
     "bio": "Student and aspiring journalist. Passionate about storytelling and uncovering the truth. Let\u0027s explore the world through words.",
     "imageUrl": "e5c5ac96-fdba-47e3-bd69-e968b0aec4da.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "TempestTwist"
   },
   {
     "id": "06fe0dc9-0915-4ede-9674-db77e54540e8",
@@ -679,7 +740,8 @@
     "gender": "FEMALE",
     "bio": "Teacher and mentor. Passionate about educating and inspiring others. Seeking someone who values learning and growth.",
     "imageUrl": "06fe0dc9-0915-4ede-9674-db77e54540e8.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "ZephyrBreeze"
   },
   {
     "id": "305d5c2f-de04-4286-b38f-0773a357d965",
@@ -690,7 +752,8 @@
     "gender": "FEMALE",
     "bio": "Fitness trainer and wellness coach. Loves staying active and inspiring others to live a healthy lifestyle. Looking for someone who shares my passion for fitness.",
     "imageUrl": "305d5c2f-de04-4286-b38f-0773a357d965.jpg",
-    "myersBriggsPersonalityType": "ESTP"
+    "myersBriggsPersonalityType": "ESTP",
+    "nickName": "BlazeBreaker"
   },
   {
     "id": "4972683b-6bef-49e4-8bd5-a8ae33de6045",
@@ -701,7 +764,8 @@
     "gender": "FEMALE",
     "bio": "Graphic designer and artist. Passionate about creating visually stunning designs. Looking for someone who appreciates art and creativity.",
     "imageUrl": "4972683b-6bef-49e4-8bd5-a8ae33de6045.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "HawkEyeView"
   },
   {
     "id": "5a0150ea-0d3a-465a-ac33-e5d313bc1b63",
@@ -712,7 +776,8 @@
     "gender": "FEMALE",
     "bio": "Chef and food lover. Enjoys experimenting with new recipes and flavors. Seeking someone who appreciates good food and great company.",
     "imageUrl": "5a0150ea-0d3a-465a-ac33-e5d313bc1b63.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "ffa9903a-9001-4c1d-a43c-eeee33433648",
@@ -723,7 +788,8 @@
     "gender": "FEMALE",
     "bio": "Marketing specialist and social media enthusiast. Loves connecting with people and creating engaging content. Let\u0027s make a difference together.",
     "imageUrl": "ffa9903a-9001-4c1d-a43c-eeee33433648.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "5fc68d5f-c589-44eb-a432-b27958ed8cb4",
@@ -734,7 +800,8 @@
     "gender": "FEMALE",
     "bio": "Nurse and caregiver. Passionate about helping others and making a difference. Looking for someone who values kindness and compassion.",
     "imageUrl": "5fc68d5f-c589-44eb-a432-b27958ed8cb4.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "e1019215-1eb2-413b-9aa1-2e01f8c2f744",
@@ -745,7 +812,8 @@
     "gender": "FEMALE",
     "bio": "Software developer and tech enthusiast. Loves coding, solving problems, and exploring new technologies. Looking for someone who shares my passion for innovation.",
     "imageUrl": "e1019215-1eb2-413b-9aa1-2e01f8c2f744.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "aaae796b-f1f9-4d9c-b278-ecbdab5337ac",
@@ -756,7 +824,8 @@
     "gender": "FEMALE",
     "bio": "Entrepreneur and innovator. Passionate about starting new ventures and making a difference. Looking for someone who shares my drive and ambition.",
     "imageUrl": "aaae796b-f1f9-4d9c-b278-ecbdab5337ac.jpg",
-    "myersBriggsPersonalityType": "ENTJ"
+    "myersBriggsPersonalityType": "ENTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "7edfc29c-37f1-4014-a119-e4788cc2e28b",
@@ -767,7 +836,8 @@
     "gender": "FEMALE",
     "bio": "Travel blogger and adventurer. Loves exploring new places and cultures. Seeking someone to share my wanderlust and adventures.",
     "imageUrl": "7edfc29c-37f1-4014-a119-e4788cc2e28b.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "2324f7c9-2298-40ab-9a98-b863d6f37ed1",
@@ -778,7 +848,8 @@
     "gender": "FEMALE",
     "bio": "Baker and confectionery artist. Passionate about creating sweet treats and desserts. Looking for someone who has a sweet tooth!",
     "imageUrl": "2324f7c9-2298-40ab-9a98-b863d6f37ed1.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "fdf19073-7154-4c11-938d-12c20c085eb8",
@@ -789,7 +860,8 @@
     "gender": "FEMALE",
     "bio": "Architect and urban planner. Loves designing sustainable and innovative spaces. Seeking someone who appreciates modern architecture.",
     "imageUrl": "fdf19073-7154-4c11-938d-12c20c085eb8.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "8459101a-2e3e-4f83-a268-a5c87abf8197",
@@ -800,7 +872,8 @@
     "gender": "FEMALE",
     "bio": "Marine biologist and diver. Passionate about ocean conservation and marine life. Looking for someone who loves the sea as much as I do.",
     "imageUrl": "8459101a-2e3e-4f83-a268-a5c87abf8197.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "ee3df326-9933-4c0e-9f8b-6f698d95c852",
@@ -811,7 +884,8 @@
     "gender": "FEMALE",
     "bio": "Journalist and travel writer. Loves exploring new cultures and telling their stories. Let\u0027s discover the world together.",
     "imageUrl": "ee3df326-9933-4c0e-9f8b-6f698d95c852.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "30a58d8b-bf74-479f-8159-1d0152dd6da9",
@@ -822,7 +896,8 @@
     "gender": "FEMALE",
     "bio": "Astronomer and stargazer. Passionate about the cosmos and space exploration. Seeking someone who shares my love for the stars.",
     "imageUrl": "30a58d8b-bf74-479f-8159-1d0152dd6da9.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "Kitten"
   },
   {
     "id": "8221458d-82fc-4f3f-8ab1-e5170897a1a2",
@@ -833,7 +908,8 @@
     "gender": "FEMALE",
     "bio": "Podcast host and storyteller. Enjoys deep conversations and exploring new topics. Let\u0027s create interesting dialogues together.",
     "imageUrl": "8221458d-82fc-4f3f-8ab1-e5170897a1a2.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "d7b5dabb-5baf-4007-ad23-7cd9bda0d95f",
@@ -844,7 +920,8 @@
     "gender": "FEMALE",
     "bio": "Landscape photographer with a love for nature. Enjoys hiking and capturing beautiful landscapes. Seeking someone who enjoys the great outdoors.",
     "imageUrl": "d7b5dabb-5baf-4007-ad23-7cd9bda0d95f.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "38b3687d-2502-47e1-b6c3-072878d498da",
@@ -855,7 +932,8 @@
     "gender": "FEMALE",
     "bio": "Yoga therapist and wellness coach. Passionate about holistic health and mindfulness. Let\u0027s find balance and peace together.",
     "imageUrl": "38b3687d-2502-47e1-b6c3-072878d498da.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "182ce9d7-f65c-4754-8340-8090f383f535",
@@ -866,7 +944,8 @@
     "gender": "FEMALE",
     "bio": "Veterinary technician with a love for animals. Enjoys volunteering at shelters and hiking with my dog. Looking for an animal lover.",
     "imageUrl": "182ce9d7-f65c-4754-8340-8090f383f535.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "05e57563-fed2-4eec-beaf-9730efd9a1f7",
@@ -877,7 +956,8 @@
     "gender": "FEMALE",
     "bio": "Fashion designer and trendsetter. Passionate about creating unique styles and fashion statements. Let\u0027s make the world our runway.",
     "imageUrl": "05e57563-fed2-4eec-beaf-9730efd9a1f7.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "03832a33-c83f-4366-ba73-deab17a8a535",
@@ -888,7 +968,8 @@
     "gender": "FEMALE",
     "bio": "Screenwriter and film enthusiast. Loves crafting stories for the screen and watching movies. Seeking someone who shares my love for cinema.",
     "imageUrl": "03832a33-c83f-4366-ba73-deab17a8a535.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "3a3dcdbb-8d31-4229-8e07-8338d6ad4ade",
@@ -899,7 +980,8 @@
     "gender": "FEMALE",
     "bio": "Psychiatrist with a passion for mental health advocacy. Enjoys reading, meditation, and helping others. Looking for a kind and understanding partner.",
     "imageUrl": "3a3dcdbb-8d31-4229-8e07-8338d6ad4ade.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "93131f69-16ad-4223-8c1d-fabd847159be",
@@ -910,7 +992,8 @@
     "gender": "FEMALE",
     "bio": "Interior designer and artist. Loves transforming spaces and creating beautiful environments. Seeking someone who appreciates design and creativity.",
     "imageUrl": "93131f69-16ad-4223-8c1d-fabd847159be.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "c645bc98-cdc9-4431-892c-39b844dfb100",
@@ -921,7 +1004,8 @@
     "gender": "FEMALE",
     "bio": "Classical musician and violinist. Passionate about performing and teaching music. Let\u0027s make beautiful music together.",
     "imageUrl": "c645bc98-cdc9-4431-892c-39b844dfb100.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "53fb99b8-ca01-48d2-b762-7ed363a34dfc",
@@ -932,7 +1016,8 @@
     "gender": "FEMALE",
     "bio": "Environmental scientist and nature lover. Enjoys researching and advocating for sustainability. Seeking someone who cares about the planet.",
     "imageUrl": "53fb99b8-ca01-48d2-b762-7ed363a34dfc.jpg",
-    "myersBriggsPersonalityType": "ENTP"
+    "myersBriggsPersonalityType": "ENTP",
+    "nickName": "Kitten"
   },
   {
     "id": "f6214274-d5b8-4407-9e99-89ab5c6f5ee7",
@@ -943,7 +1028,8 @@
     "gender": "FEMALE",
     "bio": "Digital marketing specialist and travel enthusiast. Loves creating engaging content and exploring new destinations. Let\u0027s build a life of adventure.",
     "imageUrl": "f6214274-d5b8-4407-9e99-89ab5c6f5ee7.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "d5fce275-a046-42c7-a15d-d0f0a351e774",
@@ -954,7 +1040,8 @@
     "gender": "FEMALE",
     "bio": "Microbiologist with a passion for research and discovery. Enjoys solving puzzles and learning about the microscopic world. Looking for a curious mind.",
     "imageUrl": "d5fce275-a046-42c7-a15d-d0f0a351e774.jpg",
-    "myersBriggsPersonalityType": "ISTJ"
+    "myersBriggsPersonalityType": "ISTJ",
+    "nickName": "Comet_Cruise"
   },
   {
     "id": "eb42a786-d41f-4129-96f1-7d5a7f1580f9",
@@ -965,7 +1052,8 @@
     "gender": "FEMALE",
     "bio": "Fitness coach and nutritionist. Passionate about helping others achieve their health goals. Seeking someone who values a healthy lifestyle.",
     "imageUrl": "eb42a786-d41f-4129-96f1-7d5a7f1580f9.jpg",
-    "myersBriggsPersonalityType": "ESTJ"
+    "myersBriggsPersonalityType": "ESTJ",
+    "nickName": "RogueWave"
   },
   {
     "id": "67058313-b941-4add-8e35-17c8f1788782",
@@ -976,7 +1064,8 @@
     "gender": "FEMALE",
     "bio": "Public relations specialist with a love for communication. Enjoys networking, writing, and creating positive media. Looking for a social butterfly.",
     "imageUrl": "67058313-b941-4add-8e35-17c8f1788782.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "2ee98151-fd09-4241-bfb2-4fa939546cb6",
@@ -987,7 +1076,8 @@
     "gender": "FEMALE",
     "bio": "Astrophysicist and science communicator. Passionate about sharing the wonders of the universe. Seeking someone who loves science and exploration.",
     "imageUrl": "2ee98151-fd09-4241-bfb2-4fa939546cb6.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "Kitten"
   },
   {
     "id": "49198e97-8f9a-4ecc-9a6d-a6dc3c1c44fd",
@@ -998,7 +1088,8 @@
     "gender": "FEMALE",
     "bio": "Nutritionist and health advocate. Enjoys creating balanced meal plans and educating others about healthy living. Looking for someone who values wellness.",
     "imageUrl": "49198e97-8f9a-4ecc-9a6d-a6dc3c1c44fd.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "22e20e96-8e1c-41a4-9fa8-bdc42284ebb5",
@@ -1009,7 +1100,8 @@
     "gender": "FEMALE",
     "bio": "Social worker with a big heart. Passionate about helping others and making a positive impact. Seeking someone who values empathy and kindness.",
     "imageUrl": "22e20e96-8e1c-41a4-9fa8-bdc42284ebb5.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "fbf5fbdf-78ad-4cf2-940b-8ae919c2ff05",
@@ -1020,7 +1112,8 @@
     "gender": "FEMALE",
     "bio": "Fashion model and aspiring actress. Loves traveling, fashion, and new experiences. Looking for someone who shares my adventurous spirit.",
     "imageUrl": "fbf5fbdf-78ad-4cf2-940b-8ae919c2ff05.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "b92521b9-5849-4ebb-a18d-71012060fb63",
@@ -1031,7 +1124,8 @@
     "gender": "FEMALE",
     "bio": "Chef with a passion for gourmet cuisine. Enjoys experimenting with new flavors and hosting dinner parties. Seeking someone who loves good food.",
     "imageUrl": "b92521b9-5849-4ebb-a18d-71012060fb63.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "TitanMight"
   },
   {
     "id": "cd1984d0-2515-4b1c-8a32-beac4b862c09",
@@ -1042,7 +1136,8 @@
     "gender": "FEMALE",
     "bio": "Filmmaker and director. Passionate about storytelling through film. Let\u0027s create a cinematic journey together.",
     "imageUrl": "cd1984d0-2515-4b1c-8a32-beac4b862c09.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "3e303bd8-c7d7-436d-a01a-e007f6e3b54b",
@@ -1053,7 +1148,8 @@
     "gender": "FEMALE",
     "bio": "Graphic novelist and illustrator. Loves creating visual stories and characters. Looking for someone who appreciates art and creativity.",
     "imageUrl": "3e303bd8-c7d7-436d-a01a-e007f6e3b54b.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "a2fcbcc1-175d-4673-a610-83441ea9ef76",
@@ -1064,7 +1160,8 @@
     "gender": "FEMALE",
     "bio": "Botanist with a green thumb. Passionate about plant science and gardening. Seeking someone who loves nature.",
     "imageUrl": "a2fcbcc1-175d-4673-a610-83441ea9ef76.jpg",
-    "myersBriggsPersonalityType": "ISTP"
+    "myersBriggsPersonalityType": "ISTP",
+    "nickName": "Kitten"
   },
   {
     "id": "6104b921-626e-4908-86ab-2a1007ada01b",
@@ -1075,7 +1172,8 @@
     "gender": "FEMALE",
     "bio": "Financial advisor with a knack for numbers. Enjoys helping others achieve their financial goals. Looking for someone who values stability and growth.",
     "imageUrl": "6104b921-626e-4908-86ab-2a1007ada01b.jpg",
-    "myersBriggsPersonalityType": "ESTJ"
+    "myersBriggsPersonalityType": "ESTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "e0745949-f162-45eb-aa37-d2e714bef0b3",
@@ -1086,7 +1184,8 @@
     "gender": "FEMALE",
     "bio": "Historian and museum curator. Passionate about uncovering and preserving history. Seeking someone who appreciates the past.",
     "imageUrl": "e0745949-f162-45eb-aa37-d2e714bef0b3.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "96a33c78-2f0c-488a-9dbc-c3a1f6fb4abe",
@@ -1097,7 +1196,8 @@
     "gender": "FEMALE",
     "bio": "Teacher and book lover. Enjoys inspiring young minds and getting lost in a good novel. Looking for someone who values education.",
     "imageUrl": "96a33c78-2f0c-488a-9dbc-c3a1f6fb4abe.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "900d2694-e993-4b13-b2b6-471ec9d30744",
@@ -1108,7 +1208,8 @@
     "gender": "FEMALE",
     "bio": "Tech entrepreneur with a love for startups. Passionate about innovation and technology. Looking for someone with an entrepreneurial spirit.",
     "imageUrl": "900d2694-e993-4b13-b2b6-471ec9d30744.jpg",
-    "myersBriggsPersonalityType": "ENTP"
+    "myersBriggsPersonalityType": "ENTP",
+    "nickName": "Kitten"
   },
   {
     "id": "4c887672-9d40-4bfb-82ab-c049325a02e9",
@@ -1119,7 +1220,8 @@
     "gender": "FEMALE",
     "bio": "Psychologist with a focus on mental health. Enjoys helping others and making a difference. Seeking someone who values emotional well-being.",
     "imageUrl": "4c887672-9d40-4bfb-82ab-c049325a02e9.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "5e38c58e-13d6-4a77-a090-c6753d5382a1",
@@ -1130,7 +1232,8 @@
     "gender": "FEMALE",
     "bio": "Sports coach and athlete. Passionate about fitness and coaching. Looking for someone who loves sports.",
     "imageUrl": "5e38c58e-13d6-4a77-a090-c6753d5382a1.jpg",
-    "myersBriggsPersonalityType": "ESTP"
+    "myersBriggsPersonalityType": "ESTP",
+    "nickName": "Kitten"
   },
   {
     "id": "c9cdec7f-f4bf-4b3c-80f5-0da5053353e0",
@@ -1141,7 +1244,8 @@
     "gender": "FEMALE",
     "bio": "Marine biologist and conservationist. Passionate about protecting marine life. Seeking someone who loves the ocean.",
     "imageUrl": "c9cdec7f-f4bf-4b3c-80f5-0da5053353e0.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "64f31eda-0408-42ee-801d-a46eb0910951",
@@ -1152,7 +1256,8 @@
     "gender": "FEMALE",
     "bio": "Architect and urban designer. Loves creating functional and beautiful spaces. Looking for someone who appreciates design.",
     "imageUrl": "64f31eda-0408-42ee-801d-a46eb0910951.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "02e49b90-499c-4d3f-97f2-42c63b81ba79",
@@ -1163,7 +1268,8 @@
     "gender": "FEMALE",
     "bio": "Wildlife photographer with a passion for nature. Loves capturing the beauty of wildlife. Seeking someone who loves the outdoors.",
     "imageUrl": "02e49b90-499c-4d3f-97f2-42c63b81ba79.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "210f3552-1cb9-4d99-9b8a-1b869dd4f81f",
@@ -1174,7 +1280,8 @@
     "gender": "FEMALE",
     "bio": "Fashion editor with a love for style. Enjoys creating fashion trends and inspiring others. Let\u0027s make a stylish statement together.",
     "imageUrl": "210f3552-1cb9-4d99-9b8a-1b869dd4f81f.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "7b926819-9177-46f2-866a-9231d272e5c5",
@@ -1185,7 +1292,8 @@
     "gender": "FEMALE",
     "bio": "Chef and culinary artist. Passionate about creating delicious dishes. Seeking someone who loves to eat and cook.",
     "imageUrl": "7b926819-9177-46f2-866a-9231d272e5c5.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "9a358aea-2ec9-43d7-8df2-893a060be121",
@@ -1196,7 +1304,8 @@
     "gender": "FEMALE",
     "bio": "Author and novelist. Loves writing stories and exploring new ideas. Looking for someone who appreciates the art of storytelling.",
     "imageUrl": "9a358aea-2ec9-43d7-8df2-893a060be121.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "0fd2a36a-97ff-4d6e-b2a3-214e4c96a48b",
@@ -1207,7 +1316,8 @@
     "gender": "FEMALE",
     "bio": "Fitness instructor and health coach. Passionate about living a healthy lifestyle. Seeking someone who shares my passion for fitness.",
     "imageUrl": "0fd2a36a-97ff-4d6e-b2a3-214e4c96a48b.jpg",
-    "myersBriggsPersonalityType": "ESTJ"
+    "myersBriggsPersonalityType": "ESTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "7c1f8bc2-f05c-4cbc-aad7-f2ab233b0037",
@@ -1218,7 +1328,8 @@
     "gender": "FEMALE",
     "bio": "Fashion photographer with a creative eye. Loves capturing unique styles and moments. Looking for someone who appreciates art.",
     "imageUrl": "7c1f8bc2-f05c-4cbc-aad7-f2ab233b0037.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "b8a5ddb6-90a6-4f2f-a8a6-80a29e95b32b",
@@ -1229,7 +1340,8 @@
     "gender": "FEMALE",
     "bio": "Travel nurse with a heart for helping others. Loves exploring new places and cultures. Seeking someone who values compassion.",
     "imageUrl": "b8a5ddb6-90a6-4f2f-a8a6-80a29e95b32b.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "fcd38c14-9aa9-418c-b4b4-627a4e6cdae9",
@@ -1240,7 +1352,8 @@
     "gender": "FEMALE",
     "bio": "Filmmaker and director. Passionate about storytelling through film. Let\u0027s create a cinematic journey together.",
     "imageUrl": "fcd38c14-9aa9-418c-b4b4-627a4e6cdae9.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "dc42245e-0722-4e38-8bd0-bb782f67003a",
@@ -1251,7 +1364,8 @@
     "gender": "FEMALE",
     "bio": "Botanist with a green thumb. Passionate about plant science and gardening. Seeking someone who loves nature.",
     "imageUrl": "dc42245e-0722-4e38-8bd0-bb782f67003a.jpg",
-    "myersBriggsPersonalityType": "ISTP"
+    "myersBriggsPersonalityType": "ISTP",
+    "nickName": "Kitten"
   },
   {
     "id": "fc0b8acc-d2f6-4855-93f7-4657141c1f94",
@@ -1262,7 +1376,8 @@
     "gender": "FEMALE",
     "bio": "Astrophysicist and science communicator. Passionate about sharing the wonders of the universe. Seeking someone who loves science and exploration.",
     "imageUrl": "fc0b8acc-d2f6-4855-93f7-4657141c1f94.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "Kitten"
   },
   {
     "id": "c909d99a-fb00-4f80-b99e-bc91001ae851",
@@ -1273,7 +1388,8 @@
     "gender": "FEMALE",
     "bio": "Classical musician and violinist. Passionate about performing and teaching music. Let\u0027s make beautiful music together.",
     "imageUrl": "c909d99a-fb00-4f80-b99e-bc91001ae851.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "0e985a4b-6944-4dec-b0f7-4a4453592dd0",
@@ -1284,7 +1400,8 @@
     "gender": "FEMALE",
     "bio": "Filmmaker and storyteller. Passionate about creating films that inspire and entertain. Looking for someone who appreciates the art of cinema.",
     "imageUrl": "0e985a4b-6944-4dec-b0f7-4a4453592dd0.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "fffce653-9589-4527-81d5-163eda606fbe",
@@ -1295,7 +1412,8 @@
     "gender": "FEMALE",
     "bio": "Architect and urban designer. Loves designing spaces that improve people\u0027s lives. Seeking someone who shares my vision for a better world.",
     "imageUrl": "fffce653-9589-4527-81d5-163eda606fbe.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "e8a3d108-73bf-483a-8103-fdbb4851c34a",
@@ -1306,7 +1424,8 @@
     "gender": "FEMALE",
     "bio": "Chef and food critic. Enjoys trying new cuisines and creating delicious dishes. Let\u0027s embark on a culinary adventure together.",
     "imageUrl": "e8a3d108-73bf-483a-8103-fdbb4851c34a.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "c2b6042c-ec0e-4158-a8d8-c1dfb82299d6",
@@ -1317,7 +1436,8 @@
     "gender": "FEMALE",
     "bio": "Human rights lawyer with a passion for justice. Loves traveling and experiencing different cultures. Seeking someone who shares my dedication to making a difference.",
     "imageUrl": "c2b6042c-ec0e-4158-a8d8-c1dfb82299d6.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "5ae5089f-1b27-4356-af1a-b1e3069ec743",
@@ -1328,7 +1448,8 @@
     "gender": "FEMALE",
     "bio": "Fashion designer with a love for creativity and style. Enjoys traveling and exploring new fashion trends. Let\u0027s make a stylish statement together.",
     "imageUrl": "5ae5089f-1b27-4356-af1a-b1e3069ec743.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "82716eb1-135c-4880-aa3e-3d1bd103cfcc",
@@ -1339,7 +1460,8 @@
     "gender": "FEMALE",
     "bio": "Environmental scientist and nature enthusiast. Passionate about protecting the planet. Looking for someone who shares my love for the environment.",
     "imageUrl": "82716eb1-135c-4880-aa3e-3d1bd103cfcc.jpg",
-    "myersBriggsPersonalityType": "ISTJ"
+    "myersBriggsPersonalityType": "ISTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "d7aa110c-2d6b-4828-af62-e8d589b03a8f",
@@ -1350,7 +1472,8 @@
     "gender": "FEMALE",
     "bio": "Singer and songwriter. Enjoys creating music that moves people. Seeking someone who shares my passion for music and the arts.",
     "imageUrl": "d7aa110c-2d6b-4828-af62-e8d589b03a8f.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "5904ac9a-9bf0-4a06-b5c8-e2895a1d4323",
@@ -1361,7 +1484,8 @@
     "gender": "FEMALE",
     "bio": "Historian and book lover. Passionate about uncovering the past and learning from it. Let\u0027s explore history together.",
     "imageUrl": "5904ac9a-9bf0-4a06-b5c8-e2895a1d4323.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "Kitten"
   },
   {
     "id": "5ad08626-0b72-4f8c-9441-baa62667a702",
@@ -1372,7 +1496,8 @@
     "gender": "FEMALE",
     "bio": "Graphic novelist and illustrator. Loves creating stories through art. Seeking someone who appreciates creativity and imagination.",
     "imageUrl": "5ad08626-0b72-4f8c-9441-baa62667a702.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "511abe2e-5749-44c5-93c6-ed1a6d4926ce",
@@ -1383,7 +1508,8 @@
     "gender": "FEMALE",
     "bio": "Yoga instructor and wellness advocate. Passionate about living a balanced and healthy lifestyle. Looking for someone who values mindfulness and well-being.",
     "imageUrl": "511abe2e-5749-44c5-93c6-ed1a6d4926ce.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "a9db68e5-92f6-4b0a-a974-b006fdb58ef6",
@@ -1394,7 +1520,8 @@
     "gender": "FEMALE",
     "bio": "Journalist and documentary filmmaker. Loves uncovering stories that matter. Seeking someone who values truth and storytelling.",
     "imageUrl": "a9db68e5-92f6-4b0a-a974-b006fdb58ef6.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "410ddf40-7b81-4595-a670-b86c26a32bf1",
@@ -1405,7 +1532,8 @@
     "gender": "FEMALE",
     "bio": "Fashion photographer with a love for capturing beauty. Enjoys traveling and exploring new places. Let\u0027s create stunning visuals together.",
     "imageUrl": "410ddf40-7b81-4595-a670-b86c26a32bf1.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "ee3063c1-7f77-43b3-b2d4-55a56c1e8c6b",
@@ -1416,7 +1544,8 @@
     "gender": "FEMALE",
     "bio": "Software developer and tech enthusiast. Loves coding and solving complex problems. Seeking someone who shares my passion for technology.",
     "imageUrl": "ee3063c1-7f77-43b3-b2d4-55a56c1e8c6b.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "77b488f1-1d2f-470a-9f6f-bd84a01e93b8",
@@ -1427,7 +1556,8 @@
     "gender": "FEMALE",
     "bio": "Entrepreneur and innovator. Passionate about creating new ventures and making a difference. Looking for someone who shares my drive and ambition.",
     "imageUrl": "77b488f1-1d2f-470a-9f6f-bd84a01e93b8.jpg",
-    "myersBriggsPersonalityType": "ENTJ"
+    "myersBriggsPersonalityType": "ENTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "369599d5-7877-4dd4-82f6-85b2d128d3a6",
@@ -1438,7 +1568,8 @@
     "gender": "FEMALE",
     "bio": "Salsa dancer and fitness enthusiast. Loves staying active and trying new things. Seeking someone who can keep up with my energy.",
     "imageUrl": "369599d5-7877-4dd4-82f6-85b2d128d3a6.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "d5407b6d-6fce-46ab-b1ee-bdc7abb0295c",
@@ -1449,7 +1580,8 @@
     "gender": "FEMALE",
     "bio": "Biologist and nature lover. Enjoys exploring the outdoors and learning about wildlife. Let\u0027s discover the wonders of nature together.",
     "imageUrl": "d5407b6d-6fce-46ab-b1ee-bdc7abb0295c.jpg",
-    "myersBriggsPersonalityType": "ISTJ"
+    "myersBriggsPersonalityType": "ISTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "acf57303-9ea1-40de-a5c2-e0f8bc097b02",
@@ -1460,7 +1592,8 @@
     "gender": "FEMALE",
     "bio": "Architect and urban planner. Passionate about designing sustainable and livable cities. Seeking someone who shares my vision for the future.",
     "imageUrl": "acf57303-9ea1-40de-a5c2-e0f8bc097b02.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "602abce8-525e-4c67-ab09-d76c2e86f9a1",
@@ -1471,7 +1604,8 @@
     "gender": "FEMALE",
     "bio": "Humanitarian worker with a passion for helping others. Enjoys traveling and experiencing different cultures. Let\u0027s make a difference together.",
     "imageUrl": "602abce8-525e-4c67-ab09-d76c2e86f9a1.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "126f4898-4e83-45b6-a4ca-08d5708526a5",
@@ -1482,7 +1616,8 @@
     "gender": "FEMALE",
     "bio": "Environmental engineer and sustainability advocate. Passionate about protecting the planet. Seeking someone who shares my dedication to the environment.",
     "imageUrl": "126f4898-4e83-45b6-a4ca-08d5708526a5.jpg",
-    "myersBriggsPersonalityType": "ISTJ"
+    "myersBriggsPersonalityType": "ISTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "d8c3332d-18c2-4c0b-af42-3af8f730073a",
@@ -1493,7 +1628,8 @@
     "gender": "FEMALE",
     "bio": "Dance instructor with a love for movement and expression. Enjoys teaching and inspiring others. Let\u0027s dance through life together.",
     "imageUrl": "d8c3332d-18c2-4c0b-af42-3af8f730073a.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "68cc058e-2b76-4a19-8b47-fe66521bd1b9",
@@ -1504,7 +1640,8 @@
     "gender": "FEMALE",
     "bio": "Chef and food blogger. Passionate about creating delicious dishes and sharing them with the world. Looking for someone who loves good food and great company.",
     "imageUrl": "68cc058e-2b76-4a19-8b47-fe66521bd1b9.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "ac750a05-19e5-4a82-98bb-5467d7cf98f7",
@@ -1515,7 +1652,8 @@
     "gender": "FEMALE",
     "bio": "Fashion designer and entrepreneur. Loves creating unique styles and inspiring others. Seeking someone who appreciates creativity and innovation.",
     "imageUrl": "ac750a05-19e5-4a82-98bb-5467d7cf98f7.jpg",
-    "myersBriggsPersonalityType": "ENTP"
+    "myersBriggsPersonalityType": "ENTP",
+    "nickName": "Kitten"
   },
   {
     "id": "6ee11464-5f91-447c-91c1-c468c808e1bf",
@@ -1526,7 +1664,8 @@
     "gender": "FEMALE",
     "bio": "Artist and art therapist. Passionate about using art to heal and inspire. Looking for someone who values creativity and empathy.",
     "imageUrl": "6ee11464-5f91-447c-91c1-c468c808e1bf.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "017e4530-49b4-4937-8adf-985a82595d53",
@@ -1537,7 +1676,8 @@
     "gender": "FEMALE",
     "bio": "Doctor and medical researcher. Passionate about advancing healthcare and helping others. Seeking someone who shares my dedication to making a difference.",
     "imageUrl": "017e4530-49b4-4937-8adf-985a82595d53.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "4c7da207-9def-470a-8557-62da5420f9fa",
@@ -1548,7 +1688,8 @@
     "gender": "FEMALE",
     "bio": "Journalist and travel writer. Loves uncovering stories and sharing them with the world. Let\u0027s explore the world together.",
     "imageUrl": "4c7da207-9def-470a-8557-62da5420f9fa.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "ec5ccf6c-9f15-476b-ab9b-997b72d29473",
@@ -1559,7 +1700,8 @@
     "gender": "FEMALE",
     "bio": "Nurse and caregiver. Passionate about helping others and making a difference. Looking for someone who values kindness and compassion.",
     "imageUrl": "ec5ccf6c-9f15-476b-ab9b-997b72d29473.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "cb428d65-ac69-43b1-8c9c-f561f4a2b80f",
@@ -1570,7 +1712,8 @@
     "gender": "FEMALE",
     "bio": "Graphic designer and creative director. Loves bringing ideas to life through design. Seeking someone who values creativity and innovation.",
     "imageUrl": "cb428d65-ac69-43b1-8c9c-f561f4a2b80f.jpg",
-    "myersBriggsPersonalityType": "ENTJ"
+    "myersBriggsPersonalityType": "ENTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "beb856e7-1741-458d-9ba4-027486dd07bc",
@@ -1581,7 +1724,8 @@
     "gender": "FEMALE",
     "bio": "Research scientist with a love for discovery and innovation. Enjoys solving complex problems and exploring new frontiers. Looking for someone who shares my curiosity.",
     "imageUrl": "beb856e7-1741-458d-9ba4-027486dd07bc.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "Kitten"
   },
   {
     "id": "e8933b58-3114-4933-beeb-c9f1662e2aac",
@@ -1592,7 +1736,8 @@
     "gender": "FEMALE",
     "bio": "Musician and composer. Passionate about creating music that moves people. Seeking someone who shares my love for music and the arts.",
     "imageUrl": "e8933b58-3114-4933-beeb-c9f1662e2aac.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "ccddcf93-8381-4714-9950-e8d8ccca0433",
@@ -1603,7 +1748,8 @@
     "gender": "FEMALE",
     "bio": "Fashion blogger and stylist. Loves creating unique looks and inspiring others. Let\u0027s make a stylish impact together.",
     "imageUrl": "ccddcf93-8381-4714-9950-e8d8ccca0433.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "c2b46e7f-3814-426d-81f7-3e7a62a7f6cc",
@@ -1614,7 +1760,8 @@
     "gender": "FEMALE",
     "bio": "Yoga instructor and wellness coach. Passionate about living a balanced and healthy lifestyle. Seeking someone who values mindfulness and well-being.",
     "imageUrl": "c2b46e7f-3814-426d-81f7-3e7a62a7f6cc.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "55718720-08b6-4797-8655-1cdf225eb47d",
@@ -1625,7 +1772,8 @@
     "gender": "FEMALE",
     "bio": "Actress and performer. Loves the stage and bringing stories to life. Looking for someone who shares my passion for the arts.",
     "imageUrl": "55718720-08b6-4797-8655-1cdf225eb47d.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "4f3c9071-87e2-458a-ab95-bdc332d44ef4",
@@ -1636,7 +1784,8 @@
     "gender": "FEMALE",
     "bio": "Fashion designer with a love for creativity and style. Enjoys traveling and exploring new fashion trends. Let\u0027s make a stylish statement together.",
     "imageUrl": "4f3c9071-87e2-458a-ab95-bdc332d44ef4.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "672faafe-9025-4c76-b06a-97038ba7df74",
@@ -1647,7 +1796,8 @@
     "gender": "FEMALE",
     "bio": "Data scientist and machine learning enthusiast. Passionate about analyzing data and discovering insights. Seeking someone who shares my analytical mind.",
     "imageUrl": "672faafe-9025-4c76-b06a-97038ba7df74.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "b3b1386d-83be-4bc6-8af9-919ad21ac8cc",
@@ -1658,7 +1808,8 @@
     "gender": "FEMALE",
     "bio": "Marketing professional and social media enthusiast. Loves connecting with people and creating engaging content. Let\u0027s make a difference together.",
     "imageUrl": "b3b1386d-83be-4bc6-8af9-919ad21ac8cc.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "5ca004a4-fe84-47bd-955e-4a8f948cf254",
@@ -1669,7 +1820,8 @@
     "gender": "FEMALE",
     "bio": "Software engineer and tech enthusiast. Loves coding and solving complex problems. Seeking someone who shares my passion for technology.",
     "imageUrl": "5ca004a4-fe84-47bd-955e-4a8f948cf254.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "Kitten"
   },
   {
     "id": "655f5dae-a60d-4ef2-9ce8-2dc98c59fa2a",
@@ -1680,7 +1832,8 @@
     "gender": "FEMALE",
     "bio": "Social worker and advocate. Passionate about making a positive impact on people\u0027s lives. Looking for someone who values empathy and compassion.",
     "imageUrl": "655f5dae-a60d-4ef2-9ce8-2dc98c59fa2a.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "163d60a2-5a92-4e64-9fe2-04bb8e866133",
@@ -1691,7 +1844,8 @@
     "gender": "FEMALE",
     "bio": "Artist and illustrator. Passionate about creating beautiful and meaningful art. Looking for someone who appreciates creativity and imagination.",
     "imageUrl": "163d60a2-5a92-4e64-9fe2-04bb8e866133.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "2ab41662-8136-4fa5-b67c-cd5c31fa3445",
@@ -1702,7 +1856,8 @@
     "gender": "FEMALE",
     "bio": "Financial analyst and number cruncher. Passionate about data and discovering trends. Seeking someone who shares my analytical mind.",
     "imageUrl": "2ab41662-8136-4fa5-b67c-cd5c31fa3445.jpg",
-    "myersBriggsPersonalityType": "ISTJ"
+    "myersBriggsPersonalityType": "ISTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "0efd4353-dd34-42bb-b26f-0ee85278e099",
@@ -1713,7 +1868,8 @@
     "gender": "FEMALE",
     "bio": "Therapist and listener. Passionate about helping others and making a difference. Looking for someone kind and compassionate.",
     "imageUrl": "0efd4353-dd34-42bb-b26f-0ee85278e099.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "82fac41d-cca4-4d29-9ed3-1206f6cfdf42",
@@ -1724,7 +1880,8 @@
     "gender": "FEMALE",
     "bio": "Fashion designer and creative director. Loves creating unique styles and inspiring others. Seeking someone who values creativity and innovation.",
     "imageUrl": "82fac41d-cca4-4d29-9ed3-1206f6cfdf42.jpg",
-    "myersBriggsPersonalityType": "ENTP"
+    "myersBriggsPersonalityType": "ENTP",
+    "nickName": "Kitten"
   },
   {
     "id": "70301361-647a-41a3-a639-889d5b5c48a7",
@@ -1735,7 +1892,8 @@
     "gender": "FEMALE",
     "bio": "Entrepreneur and business owner. Passionate about creating and growing new ventures. Looking for someone who shares my drive and ambition.",
     "imageUrl": "70301361-647a-41a3-a639-889d5b5c48a7.jpg",
-    "myersBriggsPersonalityType": "ENTJ"
+    "myersBriggsPersonalityType": "ENTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "0f242a88-609b-4329-b96d-e0486cd2c371",
@@ -1746,7 +1904,8 @@
     "gender": "FEMALE",
     "bio": "Photographer and visual artist. Passionate about capturing moments and telling stories through images. Looking for someone who sees the world through a creative lens.",
     "imageUrl": "0f242a88-609b-4329-b96d-e0486cd2c371.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "a96855dc-1ee7-4e8b-92c8-edde2536fa13",
@@ -1757,7 +1916,8 @@
     "gender": "FEMALE",
     "bio": "Marketing specialist and social media enthusiast. Loves connecting with people and creating engaging content. Let\u0027s make a difference together.",
     "imageUrl": "a96855dc-1ee7-4e8b-92c8-edde2536fa13.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "26374a35-e06d-46cf-ab3b-85a11d168170",
@@ -1768,7 +1928,8 @@
     "gender": "FEMALE",
     "bio": "Writer and novelist. Loves crafting stories and getting lost in a good book. Seeking someone who appreciates the magic of words.",
     "imageUrl": "26374a35-e06d-46cf-ab3b-85a11d168170.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "2fc4a600-3bad-4753-b5c7-ebcc987c460b",
@@ -1779,7 +1940,8 @@
     "gender": "FEMALE",
     "bio": "Fashion blogger and stylist. Loves creating unique looks and inspiring others. Let\u0027s make a stylish impact together.",
     "imageUrl": "2fc4a600-3bad-4753-b5c7-ebcc987c460b.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "364cfc84-550f-4b0d-91fa-e7b7b6c3f92e",
@@ -1790,7 +1952,8 @@
     "gender": "FEMALE",
     "bio": "Travel junkie with a penchant for spontaneous road trips. Last minute plans? Count me in! By day, I’m a software engineer, but by night, I’m exploring new cuisines and adding to my plant collection. Recently got into pottery—let\u0027s swap DIY project ideas!",
     "imageUrl": "364cfc84-550f-4b0d-91fa-e7b7b6c3f92e.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "655ba0b0-06b4-4fe1-bdba-00f23e80ba39",
@@ -1801,7 +1964,8 @@
     "gender": "FEMALE",
     "bio": "Caffeine addict and aspiring novelist. I thrive in chaotic environments and love a good debate. Yoga keeps me grounded, and live music keeps me energized. Ever wonder why people say \u0027cheese\u0027 when taking pictures? Let\u0027s ponder over a cup of coffee!",
     "imageUrl": "655ba0b0-06b4-4fe1-bdba-00f23e80ba39.jpg",
-    "myersBriggsPersonalityType": "ENTP"
+    "myersBriggsPersonalityType": "ENTP",
+    "nickName": "Kitten"
   },
   {
     "id": "a77d40a0-fddf-4197-a572-6fc1eff738a8",
@@ -1812,7 +1976,8 @@
     "gender": "FEMALE",
     "bio": "Museum curator with a love for ancient history and modern art. Weekend plans often involve gallery hopping or discovering new hiking spots. Quirky habit: I always carry a sketchbook. If you could live in any historical period, which one would you choose?",
     "imageUrl": "a77d40a0-fddf-4197-a572-6fc1eff738a8.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "7bf016cf-de9e-4d6a-a832-462935902761",
@@ -1823,7 +1988,8 @@
     "gender": "FEMALE",
     "bio": "Fitness enthusiast and professional dancer. My world revolves around music and movement. Sushi and sunsets make me happy. Dreaming of visiting every continent—Antarctica, you’re next! What’s the most spontaneous thing you’ve ever done?",
     "imageUrl": "7bf016cf-de9e-4d6a-a832-462935902761.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "4a87b297-ff2c-41eb-94b8-d55ddfd7211d",
@@ -1834,7 +2000,8 @@
     "gender": "FEMALE",
     "bio": "Architect and part-time photographer. I love capturing moments through my lens and designing spaces that tell a story. Big fan of sci-fi novels and indie films. My friends say I have a \u0027green thumb\u0027—my apartment is a mini jungle. What’s your favorite sci-fi book?",
     "imageUrl": "4a87b297-ff2c-41eb-94b8-d55ddfd7211d.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "Kitten"
   },
   {
     "id": "e3afba68-d41a-437c-8f9b-92132ead2418",
@@ -1845,7 +2012,8 @@
     "gender": "FEMALE",
     "bio": "Bookworm and beach lover. By day, I’m a high school teacher, and by night, I’m curled up with a good novel or planning my next seaside escape. I make a mean paella! What\u0027s the last book that made you cry?",
     "imageUrl": "e3afba68-d41a-437c-8f9b-92132ead2418.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "20083306-e46d-4ecb-8d0b-0a4465490360",
@@ -1856,7 +2024,8 @@
     "gender": "FEMALE",
     "bio": "Software developer and part-time DJ. My life revolves around code and beats. I love exploring new music genres and jamming with friends. I’m always up for a deep conversation about tech or life. What\u0027s the weirdest genre of music you enjoy?",
     "imageUrl": "20083306-e46d-4ecb-8d0b-0a4465490360.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "FuryInTheWind"
   },
   {
     "id": "d58f1c20-c802-4939-abfa-ca3e91d5d8e7",
@@ -1867,7 +2036,8 @@
     "gender": "FEMALE",
     "bio": "Doctor with a passion for painting. When I\u0027m not at the hospital, I\u0027m creating art or volunteering at animal shelters. I love spicy food and road trips. What\u0027s your favorite way to unwind after a long day?",
     "imageUrl": "d58f1c20-c802-4939-abfa-ca3e91d5d8e7.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "bd56ada6-488a-4f26-ae43-e4aa22fab1f2",
@@ -1878,7 +2048,8 @@
     "gender": "FEMALE",
     "bio": "Fashion designer and cat lover. My world is filled with colors, fabrics, and a lot of coffee. I enjoy exploring vintage shops and designing unique pieces. Let\u0027s talk fashion and cats!",
     "imageUrl": "bd56ada6-488a-4f26-ae43-e4aa22fab1f2.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "87f4436a-73b4-482c-81e1-5d45c56e5c8c",
@@ -1889,7 +2060,8 @@
     "gender": "FEMALE",
     "bio": "Biomedical researcher and weekend hiker. I love unraveling the mysteries of the human body and exploring nature trails. Fun fact: I can juggle! What\u0027s your hidden talent?",
     "imageUrl": "87f4436a-73b4-482c-81e1-5d45c56e5c8c.jpg",
-    "myersBriggsPersonalityType": "ISTP"
+    "myersBriggsPersonalityType": "ISTP",
+    "nickName": "Kitten"
   },
   {
     "id": "cdcb82ad-ba12-46fb-9bac-044d3110749c",
@@ -1900,7 +2072,8 @@
     "gender": "FEMALE",
     "bio": "Aspiring actress and coffee addict. I\u0027m always on the lookout for new roles and the perfect latte. Theater is my second home. Have you ever tried acting?",
     "imageUrl": "cdcb82ad-ba12-46fb-9bac-044d3110749c.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "7be4fb2e-c27a-42b5-94e6-46185f396fae",
@@ -1911,7 +2084,8 @@
     "gender": "FEMALE",
     "bio": "Chef and food blogger. Cooking is my love language, and I\u0027m always experimenting with new recipes. I enjoy food festivals and discovering local eateries. What\u0027s your favorite dish to cook?",
     "imageUrl": "7be4fb2e-c27a-42b5-94e6-46185f396fae.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "767e0e5c-66ba-45f7-8019-35822f7d1a92",
@@ -1922,7 +2096,8 @@
     "gender": "FEMALE",
     "bio": "Data scientist with a love for puzzles and board games. I\u0027m always curious and enjoy finding patterns in chaos. Weekend plans? Game night with friends. What\u0027s your favorite board game?",
     "imageUrl": "767e0e5c-66ba-45f7-8019-35822f7d1a92.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "Kitten"
   },
   {
     "id": "4a86c097-08cc-4af9-ad64-0024e09b2018",
@@ -1933,7 +2108,8 @@
     "gender": "FEMALE",
     "bio": "Photographer and world traveler. Capturing moments is my passion, and I\u0027ve been to over 20 countries. I love learning about different cultures. What\u0027s the most beautiful place you\u0027ve ever visited?",
     "imageUrl": "4a86c097-08cc-4af9-ad64-0024e09b2018.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "cb732957-8920-4135-9940-7ce243cfa53e",
@@ -1944,7 +2120,8 @@
     "gender": "FEMALE",
     "bio": "Architect with a love for minimalist design. I believe in the beauty of simplicity. In my free time, I enjoy ikebana and tea ceremonies. What\u0027s your favorite architectural style?",
     "imageUrl": "cb732957-8920-4135-9940-7ce243cfa53e.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "0c9655b1-f944-4869-b974-0e1aaf29757e",
@@ -1955,7 +2132,8 @@
     "gender": "FEMALE",
     "bio": "Marine biologist and scuba diver. The ocean is my playground. I love studying marine life and advocating for ocean conservation. Ever gone diving with sharks?",
     "imageUrl": "0c9655b1-f944-4869-b974-0e1aaf29757e.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "dd0c5645-8ad8-452a-a6f6-6f4c8026117b",
@@ -1966,7 +2144,8 @@
     "gender": "FEMALE",
     "bio": "Yoga instructor and wellness coach. My life is all about balance, mindfulness, and healthy living. I love exploring holistic practices. What\u0027s your favorite way to stay fit?",
     "imageUrl": "dd0c5645-8ad8-452a-a6f6-6f4c8026117b.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "EclipseVibes"
   },
   {
     "id": "f4f5a8ed-c0a7-4207-aa66-61125461fefc",
@@ -1977,7 +2156,8 @@
     "gender": "FEMALE",
     "bio": "Fashion merchandiser with a passion for street style. I enjoy attending fashion shows and styling friends. Big fan of thrift shopping. Ever found a hidden gem?",
     "imageUrl": "f4f5a8ed-c0a7-4207-aa66-61125461fefc.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "d45f852c-1b74-454c-9a6c-dc252966bbd8",
@@ -1988,7 +2168,8 @@
     "gender": "FEMALE",
     "bio": "College student studying psychology. I love understanding what makes people tick. In my free time, I volunteer at a local shelter and play the guitar. What\u0027s your go-to karaoke song?",
     "imageUrl": "d45f852c-1b74-454c-9a6c-dc252966bbd8.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "90956dce-9dbf-449a-9944-3a37c713984a",
@@ -1999,7 +2180,8 @@
     "gender": "FEMALE",
     "bio": "Interior designer with a passion for creating cozy spaces. I enjoy DIY projects and exploring antique shops. Big fan of minimalism and Zen gardens. What\u0027s your idea of a perfect home?",
     "imageUrl": "90956dce-9dbf-449a-9944-3a37c713984a.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "e24b2a9d-6fd5-4c49-876b-a6f322a198e7",
@@ -2010,7 +2192,8 @@
     "gender": "FEMALE",
     "bio": "Veterinarian and animal lover. I have a house full of pets and a heart full of compassion. I enjoy hiking and spending time in nature. Do you have any pets?",
     "imageUrl": "e24b2a9d-6fd5-4c49-876b-a6f322a198e7.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "18667376-a68b-48d1-8331-a78f26caaea1",
@@ -2021,7 +2204,8 @@
     "gender": "FEMALE",
     "bio": "Journalist and avid reader. I love uncovering stories and bringing them to light. In my downtime, I enjoy cozy cafes and poetry slams. What\u0027s the best story you\u0027ve ever heard?",
     "imageUrl": "18667376-a68b-48d1-8331-a78f26caaea1.jpg",
-    "myersBriggsPersonalityType": "ENTP"
+    "myersBriggsPersonalityType": "ENTP",
+    "nickName": "Kitten"
   },
   {
     "id": "3f71876e-dfdc-493b-abff-e97f847f5321",
@@ -2032,7 +2216,8 @@
     "gender": "FEMALE",
     "bio": "Graphic designer with a passion for vibrant colors and unique designs. I enjoy painting and street art. I\u0027m always up for a creative challenge. What\u0027s your favorite piece of art?",
     "imageUrl": "3f71876e-dfdc-493b-abff-e97f847f5321.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "d3a2b688-f73f-4cdd-b486-ea215827ae08",
@@ -2043,7 +2228,8 @@
     "gender": "FEMALE",
     "bio": "Chef and food critic. I love experimenting with new recipes and reviewing restaurants. Traveling for food is my hobby. What\u0027s the best meal you\u0027ve ever had?",
     "imageUrl": "d3a2b688-f73f-4cdd-b486-ea215827ae08.jpg",
-    "myersBriggsPersonalityType": "ESTJ"
+    "myersBriggsPersonalityType": "ESTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "06ca8ef7-7813-4408-8eac-c75688c9c8dc",
@@ -2054,7 +2240,8 @@
     "gender": "FEMALE",
     "bio": "Environmental scientist and nature lover. I\u0027m passionate about conservation and sustainability. I enjoy hiking, camping, and birdwatching. What\u0027s your favorite outdoor activity?",
     "imageUrl": "06ca8ef7-7813-4408-8eac-c75688c9c8dc.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "d0f8469d-b6e3-429a-904b-82642350d770",
@@ -2065,7 +2252,8 @@
     "gender": "FEMALE",
     "bio": "Bookworm and beach lover. By day, I’m a high school teacher, and by night, I’m curled up with a good novel or planning my next seaside escape. I make a mean paella! What\u0027s the last book that made you cry?",
     "imageUrl": "d0f8469d-b6e3-429a-904b-82642350d770.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "cfdeaaa3-fa5c-417f-a887-bde96748acbe",
@@ -2076,7 +2264,8 @@
     "gender": "FEMALE",
     "bio": "Software developer and part-time DJ. My life revolves around code and beats. I love exploring new music genres and jamming with friends. I’m always up for a deep conversation about tech or life. What\u0027s the weirdest genre of music you enjoy?",
     "imageUrl": "cfdeaaa3-fa5c-417f-a887-bde96748acbe.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "58ff6508-eaed-4cd2-b3ef-6b7dd135c583",
@@ -2087,7 +2276,8 @@
     "gender": "FEMALE",
     "bio": "Doctor with a passion for painting. When I\u0027m not at the hospital, I\u0027m creating art or volunteering at animal shelters. I love spicy food and road trips. What\u0027s your favorite way to unwind after a long day?",
     "imageUrl": "58ff6508-eaed-4cd2-b3ef-6b7dd135c583.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "d214658e-0fec-42b8-8ae5-980e6f8b0b63",
@@ -2098,7 +2288,8 @@
     "gender": "FEMALE",
     "bio": "Fashion designer and cat lover. My world is filled with colors, fabrics, and a lot of coffee. I enjoy exploring vintage shops and designing unique pieces. Let\u0027s talk fashion and cats!",
     "imageUrl": "d214658e-0fec-42b8-8ae5-980e6f8b0b63.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "e8bee6f0-b1aa-47a5-aeda-b3880b0d89b9",
@@ -2109,7 +2300,8 @@
     "gender": "FEMALE",
     "bio": "Biomedical researcher and weekend hiker. I love unraveling the mysteries of the human body and exploring nature trails. Fun fact: I can juggle! What\u0027s your hidden talent?",
     "imageUrl": "e8bee6f0-b1aa-47a5-aeda-b3880b0d89b9.jpg",
-    "myersBriggsPersonalityType": "ISTP"
+    "myersBriggsPersonalityType": "ISTP",
+    "nickName": "Kitten"
   },
   {
     "id": "ffec5ceb-739e-4382-b425-a77bebfa8ea1",
@@ -2120,7 +2312,8 @@
     "gender": "FEMALE",
     "bio": "Aspiring actress and coffee addict. I\u0027m always on the lookout for new roles and the perfect latte. Theater is my second home. Have you ever tried acting?",
     "imageUrl": "ffec5ceb-739e-4382-b425-a77bebfa8ea1.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "fad5eaf9-f3f4-4208-8bbd-bbe4f6817cc5",
@@ -2131,7 +2324,8 @@
     "gender": "FEMALE",
     "bio": "Chef and food blogger. Cooking is my love language, and I\u0027m always experimenting with new recipes. I enjoy food festivals and discovering local eateries. What\u0027s your favorite dish to cook?",
     "imageUrl": "fad5eaf9-f3f4-4208-8bbd-bbe4f6817cc5.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "fa82013e-fad6-4fef-a8d5-397a6cae6360",
@@ -2142,7 +2336,8 @@
     "gender": "FEMALE",
     "bio": "Data scientist with a love for puzzles and board games. I\u0027m always curious and enjoy finding patterns in chaos. Weekend plans? Game night with friends. What\u0027s your favorite board game?",
     "imageUrl": "fa82013e-fad6-4fef-a8d5-397a6cae6360.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "Kitten"
   },
   {
     "id": "09be1d7e-0197-4779-a8c3-3b939d34adc3",
@@ -2153,7 +2348,8 @@
     "gender": "FEMALE",
     "bio": "Photographer and world traveler. Capturing moments is my passion, and I\u0027ve been to over 20 countries. I love learning about different cultures. What\u0027s the most beautiful place you\u0027ve ever visited?",
     "imageUrl": "09be1d7e-0197-4779-a8c3-3b939d34adc3.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "a00c211b-2ce8-4af5-a1a6-7cb3405d43a9",
@@ -2164,7 +2360,8 @@
     "gender": "FEMALE",
     "bio": "Architect with a love for minimalist design. I believe in the beauty of simplicity. In my free time, I enjoy ikebana and tea ceremonies. What\u0027s your favorite architectural style?",
     "imageUrl": "a00c211b-2ce8-4af5-a1a6-7cb3405d43a9.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "a0569279-9e3e-477c-a899-22423f03757c",
@@ -2175,7 +2372,8 @@
     "gender": "FEMALE",
     "bio": "Marine biologist and scuba diver. The ocean is my playground. I love studying marine life and advocating for ocean conservation. Ever gone diving with sharks?",
     "imageUrl": "a0569279-9e3e-477c-a899-22423f03757c.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "86d68335-0b31-4fff-90ad-b8cc4ec085d5",
@@ -2186,7 +2384,8 @@
     "gender": "FEMALE",
     "bio": "Yoga instructor and wellness coach. My life is all about balance, mindfulness, and healthy living. I love exploring holistic practices. What\u0027s your favorite way to stay fit?",
     "imageUrl": "86d68335-0b31-4fff-90ad-b8cc4ec085d5.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "fcf41221-54b5-44c2-8b87-383c9254d681",
@@ -2197,7 +2396,8 @@
     "gender": "FEMALE",
     "bio": "Fashion merchandiser with a passion for street style. I enjoy attending fashion shows and styling friends. Big fan of thrift shopping. Ever found a hidden gem?",
     "imageUrl": "fcf41221-54b5-44c2-8b87-383c9254d681.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "674a3672-1271-4855-a97e-e827252e2036",
@@ -2208,7 +2408,8 @@
     "gender": "FEMALE",
     "bio": "College student studying psychology. I love understanding what makes people tick. In my free time, I volunteer at a local shelter and play the guitar. What\u0027s your go-to karaoke song?",
     "imageUrl": "674a3672-1271-4855-a97e-e827252e2036.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "4204ce50-3b00-434e-89e2-f219b99d6c1f",
@@ -2219,7 +2420,8 @@
     "gender": "FEMALE",
     "bio": "Interior designer with a passion for creating cozy spaces. I enjoy DIY projects and exploring antique shops. Big fan of minimalism and Zen gardens. What\u0027s your idea of a perfect home?",
     "imageUrl": "4204ce50-3b00-434e-89e2-f219b99d6c1f.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "fd501317-6de4-4d9b-83a4-53e839fe1b50",
@@ -2230,7 +2432,8 @@
     "gender": "FEMALE",
     "bio": "Veterinarian and animal lover. I have a house full of pets and a heart full of compassion. I enjoy hiking and spending time in nature. Do you have any pets?",
     "imageUrl": "fd501317-6de4-4d9b-83a4-53e839fe1b50.jpg",
-    "myersBriggsPersonalityType": "ENFJ"
+    "myersBriggsPersonalityType": "ENFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "a14004cd-86d8-46a8-a08d-dc493c7e5e35",
@@ -2241,7 +2444,8 @@
     "gender": "FEMALE",
     "bio": "Journalist and avid reader. I love uncovering stories and bringing them to light. In my downtime, I enjoy cozy cafes and poetry slams. What\u0027s the best story you\u0027ve ever heard?",
     "imageUrl": "a14004cd-86d8-46a8-a08d-dc493c7e5e35.jpg",
-    "myersBriggsPersonalityType": "ENTP"
+    "myersBriggsPersonalityType": "ENTP",
+    "nickName": "Kitten"
   },
   {
     "id": "1ac57bbd-c7e0-4c47-b900-ffd45988ab98",
@@ -2252,7 +2456,8 @@
     "gender": "FEMALE",
     "bio": "Graphic designer with a passion for vibrant colors and unique designs. I enjoy painting and street art. I\u0027m always up for a creative challenge. What\u0027s your favorite piece of art?",
     "imageUrl": "1ac57bbd-c7e0-4c47-b900-ffd45988ab98.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "d10766eb-4662-4ac1-a6ee-9869ab15b7c2",
@@ -2263,7 +2468,8 @@
     "gender": "FEMALE",
     "bio": "Chef and food critic. I love experimenting with new recipes and reviewing restaurants. Traveling for food is my hobby. What\u0027s the best meal you\u0027ve ever had?",
     "imageUrl": "d10766eb-4662-4ac1-a6ee-9869ab15b7c2.jpg",
-    "myersBriggsPersonalityType": "ESTJ"
+    "myersBriggsPersonalityType": "ESTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "6371d258-147c-4e8f-a517-36a38cc83064",
@@ -2274,7 +2480,8 @@
     "gender": "FEMALE",
     "bio": "Environmental scientist and nature lover. I\u0027m passionate about conservation and sustainability. I enjoy hiking, camping, and birdwatching. What\u0027s your favorite outdoor activity?",
     "imageUrl": "6371d258-147c-4e8f-a517-36a38cc83064.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "66e362ee-9fe9-455a-a71a-fdc4a9cfbe8e",
@@ -2285,7 +2492,8 @@
     "gender": "FEMALE",
     "bio": "Digital marketer and social media enthusiast. I love creating engaging content and connecting with people online. Big fan of travel vlogs and food photography. What\u0027s your favorite social media platform?",
     "imageUrl": "66e362ee-9fe9-455a-a71a-fdc4a9cfbe8e.jpg",
-    "myersBriggsPersonalityType": "ENTP"
+    "myersBriggsPersonalityType": "ENTP",
+    "nickName": "Kitten"
   },
   {
     "id": "5b70014f-bd56-44cc-b026-a35af18e8571",
@@ -2296,7 +2504,8 @@
     "gender": "FEMALE",
     "bio": "Pharmacist with a love for fitness and wellness. I believe in holistic health and enjoy yoga and meditation. I\u0027m also a foodie who loves trying new cuisines. What\u0027s your favorite way to stay healthy?",
     "imageUrl": "5b70014f-bd56-44cc-b026-a35af18e8571.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "4b835b5d-afb3-463b-a612-b29bc5dc9e26",
@@ -2307,7 +2516,8 @@
     "gender": "FEMALE",
     "bio": "Architect and urban explorer. I love designing innovative spaces and discovering hidden gems in the city. I\u0027m a coffee aficionado and enjoy sketching in cafes. What\u0027s your favorite city?",
     "imageUrl": "4b835b5d-afb3-463b-a612-b29bc5dc9e26.jpg",
-    "myersBriggsPersonalityType": "ENTJ"
+    "myersBriggsPersonalityType": "ENTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "403ccbc5-d866-48d1-81a2-872e6940878b",
@@ -2318,7 +2528,8 @@
     "gender": "FEMALE",
     "bio": "Music teacher and classical pianist. My life is filled with melodies and harmonies. I enjoy teaching and performing. I\u0027m also a fan of jazz and blues. What\u0027s your favorite type of music?",
     "imageUrl": "403ccbc5-d866-48d1-81a2-872e6940878b.jpg",
-    "myersBriggsPersonalityType": "INFJ"
+    "myersBriggsPersonalityType": "INFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "d492e263-01c3-4d61-8e66-aaa150bb1d19",
@@ -2329,7 +2540,8 @@
     "gender": "FEMALE",
     "bio": "Writer and coffee shop regular. I love crafting stories and creating worlds with words. I\u0027m also a fan of true crime documentaries. What\u0027s the best book you\u0027ve ever read?",
     "imageUrl": "d492e263-01c3-4d61-8e66-aaa150bb1d19.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "24e7e404-e804-4c3f-bb18-d007402b13ab",
@@ -2340,7 +2552,8 @@
     "gender": "FEMALE",
     "bio": "Graphic designer with a passion for animation and digital art. I enjoy creating vibrant characters and bringing them to life. Big fan of animated movies and comic books. Who\u0027s your favorite superhero?",
     "imageUrl": "24e7e404-e804-4c3f-bb18-d007402b13ab.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "9b81d1c1-29a2-4131-881b-f5aa12ad329e",
@@ -2351,7 +2564,8 @@
     "gender": "FEMALE",
     "bio": "Nurse with a love for baking. I find joy in helping others and creating delicious treats. My weekends are often spent experimenting with new recipes. What\u0027s your favorite dessert?",
     "imageUrl": "9b81d1c1-29a2-4131-881b-f5aa12ad329e.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "7b51c6fd-173a-4f0a-9bc9-6406388a4178",
@@ -2362,7 +2576,8 @@
     "gender": "FEMALE",
     "bio": "Art historian and museum guide. I love exploring the stories behind artworks and sharing them with others. I enjoy traveling to historic sites and art festivals. What\u0027s your favorite museum?",
     "imageUrl": "7b51c6fd-173a-4f0a-9bc9-6406388a4178.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "82c19a4a-344c-4b12-b328-e85d6ad1d038",
@@ -2373,7 +2588,8 @@
     "gender": "FEMALE",
     "bio": "Fashion blogger and stylist. I love creating unique looks and sharing fashion tips. Big fan of street style and vintage shopping. What\u0027s your go-to outfit for a night out?",
     "imageUrl": "82c19a4a-344c-4b12-b328-e85d6ad1d038.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "d2d29260-6d42-4bf3-b86c-f7cf67ff7560",
@@ -2384,7 +2600,8 @@
     "gender": "FEMALE",
     "bio": "Data analyst with a love for numbers and patterns. I enjoy solving complex problems and uncovering insights. I\u0027m also a big fan of Sudoku and logic puzzles. What\u0027s the most challenging puzzle you\u0027ve ever solved?",
     "imageUrl": "d2d29260-6d42-4bf3-b86c-f7cf67ff7560.jpg",
-    "myersBriggsPersonalityType": "INTP"
+    "myersBriggsPersonalityType": "INTP",
+    "nickName": "Kitten"
   },
   {
     "id": "02a70078-23bc-4a0b-8c8d-3a4d039e6d60",
@@ -2395,7 +2612,8 @@
     "gender": "FEMALE",
     "bio": "Journalist and travel enthusiast. I love telling stories and experiencing new cultures. I\u0027m always planning my next adventure. What\u0027s your dream travel destination?",
     "imageUrl": "02a70078-23bc-4a0b-8c8d-3a4d039e6d60.jpg",
-    "myersBriggsPersonalityType": "ESFP"
+    "myersBriggsPersonalityType": "ESFP",
+    "nickName": "Kitten"
   },
   {
     "id": "3afa8023-724b-4ccf-a23b-f8bd85ccc2b3",
@@ -2406,7 +2624,8 @@
     "gender": "FEMALE",
     "bio": "Graphic designer with a love for minimalist art. I enjoy creating clean and simple designs. I\u0027m also a fan of hiking and photography. What\u0027s your favorite outdoor activity?",
     "imageUrl": "3afa8023-724b-4ccf-a23b-f8bd85ccc2b3.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "feb0c4ba-d538-4ab8-8131-91ce52520173",
@@ -2417,7 +2636,8 @@
     "gender": "FEMALE",
     "bio": "Event planner and social butterfly. I love organizing memorable events and bringing people together. Big fan of live music and festivals. What\u0027s the best concert you\u0027ve ever been to?",
     "imageUrl": "feb0c4ba-d538-4ab8-8131-91ce52520173.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "cf2939f9-1b72-4c1d-a934-98c7dfa994a8",
@@ -2428,7 +2648,8 @@
     "gender": "FEMALE",
     "bio": "Student and aspiring filmmaker. I\u0027m passionate about storytelling and capturing moments on film. I enjoy watching indie movies and attending film festivals. What\u0027s your favorite movie genre?",
     "imageUrl": "cf2939f9-1b72-4c1d-a934-98c7dfa994a8.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "52dfbd1c-dbe9-4d2e-8597-a2f68d78d69b",
@@ -2439,7 +2660,8 @@
     "gender": "FEMALE",
     "bio": "Photographer and travel blogger. I love capturing beautiful landscapes and sharing my adventures. I\u0027m also a foodie who enjoys trying new cuisines. What\u0027s your favorite travel destination?",
     "imageUrl": "52dfbd1c-dbe9-4d2e-8597-a2f68d78d69b.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "61d89a2e-d182-4efc-a051-6fd272a9a8ae",
@@ -2450,7 +2672,8 @@
     "gender": "FEMALE",
     "bio": "Software engineer with a passion for coding and problem-solving. I enjoy working on challenging projects and learning new technologies. In my free time, I like to read sci-fi novels. What\u0027s your favorite tech gadget?",
     "imageUrl": "61d89a2e-d182-4efc-a051-6fd272a9a8ae.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "a1a72c5c-50d5-4ad4-86da-1c9b10d02c2d",
@@ -2461,7 +2684,8 @@
     "gender": "FEMALE",
     "bio": "Graphic designer and illustrator. I love creating colorful and imaginative artwork. I\u0027m also a fan of comic books and animation. Who\u0027s your favorite artist?",
     "imageUrl": "a1a72c5c-50d5-4ad4-86da-1c9b10d02c2d.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "50143602-fa66-46c6-b2d4-8711d1c6160f",
@@ -2472,7 +2696,8 @@
     "gender": "FEMALE",
     "bio": "Entrepreneur and startup enthusiast. I love working on innovative projects and building new businesses. I\u0027m also a fitness buff who enjoys running and yoga. What\u0027s your favorite workout?",
     "imageUrl": "50143602-fa66-46c6-b2d4-8711d1c6160f.jpg",
-    "myersBriggsPersonalityType": "ENTJ"
+    "myersBriggsPersonalityType": "ENTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "f9741e9c-1130-4004-94f7-55b7437ee9da",
@@ -2483,7 +2708,8 @@
     "gender": "FEMALE",
     "bio": "Fashion designer and sewing enthusiast. I enjoy creating unique clothing and accessories. I\u0027m also a fan of thrift shopping and upcycling. What\u0027s your favorite DIY project?",
     "imageUrl": "f9741e9c-1130-4004-94f7-55b7437ee9da.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "0e990f3a-7765-4441-a8a0-7c44995c394c",
@@ -2494,7 +2720,8 @@
     "gender": "FEMALE",
     "bio": "Nurse and fitness enthusiast. I love helping others and staying active. I enjoy running marathons and participating in fitness challenges. What\u0027s your favorite way to stay fit?",
     "imageUrl": "0e990f3a-7765-4441-a8a0-7c44995c394c.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "191df619-7b22-4a96-a6d8-42c53ab75a44",
@@ -2505,7 +2732,8 @@
     "gender": "FEMALE",
     "bio": "Software engineer and tech enthusiast. I enjoy working on challenging projects and learning new technologies. I\u0027m also a big fan of sci-fi movies and books. What\u0027s your favorite sci-fi movie?",
     "imageUrl": "191df619-7b22-4a96-a6d8-42c53ab75a44.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "45c7febf-ab08-4cf7-a6b1-2b677c45ea7f",
@@ -2516,7 +2744,8 @@
     "gender": "FEMALE",
     "bio": "Marketing specialist and travel lover. I enjoy exploring new places and experiencing different cultures. I\u0027m also a foodie who loves trying new cuisines. What\u0027s your favorite travel destination?",
     "imageUrl": "45c7febf-ab08-4cf7-a6b1-2b677c45ea7f.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "b2e3bd92-847b-4e3b-8be8-55087fb4a590",
@@ -2527,7 +2756,8 @@
     "gender": "FEMALE",
     "bio": "Graphic designer and illustrator. I love creating colorful and imaginative artwork. I\u0027m also a fan of comic books and animation. Who\u0027s your favorite artist?",
     "imageUrl": "b2e3bd92-847b-4e3b-8be8-55087fb4a590.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "1fc15007-2d73-47df-8d01-618b853bbc41",
@@ -2538,7 +2768,8 @@
     "gender": "FEMALE",
     "bio": "Student and aspiring filmmaker. I\u0027m passionate about storytelling and capturing moments on film. I enjoy watching indie movies and attending film festivals. What\u0027s your favorite movie genre?",
     "imageUrl": "1fc15007-2d73-47df-8d01-618b853bbc41.jpg",
-    "myersBriggsPersonalityType": "INFP"
+    "myersBriggsPersonalityType": "INFP",
+    "nickName": "Kitten"
   },
   {
     "id": "93ac3c2f-8539-4620-aadd-b6958b57bc92",
@@ -2549,7 +2780,8 @@
     "gender": "FEMALE",
     "bio": "Photographer and travel blogger. I love capturing beautiful landscapes and sharing my adventures. I\u0027m also a foodie who enjoys trying new cuisines. What\u0027s your favorite travel destination?",
     "imageUrl": "93ac3c2f-8539-4620-aadd-b6958b57bc92.jpg",
-    "myersBriggsPersonalityType": "ISFP"
+    "myersBriggsPersonalityType": "ISFP",
+    "nickName": "Kitten"
   },
   {
     "id": "89671501-36d7-4cf0-8933-14465c39e260",
@@ -2560,7 +2792,8 @@
     "gender": "FEMALE",
     "bio": "Software engineer with a passion for coding and problem-solving. I enjoy working on challenging projects and learning new technologies. In my free time, I like to read sci-fi novels. What\u0027s your favorite tech gadget?",
     "imageUrl": "89671501-36d7-4cf0-8933-14465c39e260.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "aaa4268e-6bdf-44bf-922c-44b1185a593f",
@@ -2571,7 +2804,8 @@
     "gender": "FEMALE",
     "bio": "Graphic designer and illustrator. I love creating colorful and imaginative artwork. I\u0027m also a fan of comic books and animation. Who\u0027s your favorite artist?",
     "imageUrl": "aaa4268e-6bdf-44bf-922c-44b1185a593f.jpg",
-    "myersBriggsPersonalityType": "ENFP"
+    "myersBriggsPersonalityType": "ENFP",
+    "nickName": "Kitten"
   },
   {
     "id": "9a7468bc-5d5a-4be7-9773-7cc34c7385b9",
@@ -2582,7 +2816,8 @@
     "gender": "FEMALE",
     "bio": "Entrepreneur and startup enthusiast. I love working on innovative projects and building new businesses. I\u0027m also a fitness buff who enjoys running and yoga. What\u0027s your favorite workout?",
     "imageUrl": "9a7468bc-5d5a-4be7-9773-7cc34c7385b9.jpg",
-    "myersBriggsPersonalityType": "ENTJ"
+    "myersBriggsPersonalityType": "ENTJ",
+    "nickName": "Kitten"
   },
   {
     "id": "5da58228-e3fc-4630-b1a7-307ce04137d8",
@@ -2593,7 +2828,8 @@
     "gender": "FEMALE",
     "bio": "Fashion designer and sewing enthusiast. I enjoy creating unique clothing and accessories. I\u0027m also a fan of thrift shopping and upcycling. What\u0027s your favorite DIY project?",
     "imageUrl": "5da58228-e3fc-4630-b1a7-307ce04137d8.jpg",
-    "myersBriggsPersonalityType": "ISFJ"
+    "myersBriggsPersonalityType": "ISFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "28616b2f-7a55-43ac-88c8-dfde6d335e8c",
@@ -2604,7 +2840,8 @@
     "gender": "FEMALE",
     "bio": "Nurse and fitness enthusiast. I love helping others and staying active. I enjoy running marathons and participating in fitness challenges. What\u0027s your favorite way to stay fit?",
     "imageUrl": "28616b2f-7a55-43ac-88c8-dfde6d335e8c.jpg",
-    "myersBriggsPersonalityType": "ESFJ"
+    "myersBriggsPersonalityType": "ESFJ",
+    "nickName": "Kitten"
   },
   {
     "id": "49c2fd57-9756-4c11-8be1-3da90d34ac55",
@@ -2615,6 +2852,7 @@
     "gender": "FEMALE",
     "bio": "Software engineer and tech enthusiast. I enjoy working on challenging projects and learning new technologies. I\u0027m also a big fan of sci-fi movies and books. What\u0027s your favorite sci-fi movie?",
     "imageUrl": "49c2fd57-9756-4c11-8be1-3da90d34ac55.jpg",
-    "myersBriggsPersonalityType": "INTJ"
+    "myersBriggsPersonalityType": "INTJ",
+    "nickName": "Kitten"
   }
 ]

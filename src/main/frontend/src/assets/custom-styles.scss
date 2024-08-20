@@ -17,3 +17,23 @@
 .has-border-radius-lg {
   border-radius: $radius-large;
 }
+
+// Links
+.has-hover {
+  &:hover,
+  &:active,
+  &:focus {
+    opacity: .7;
+  }
+}
+
+.has-hover-with-transform {
+  transition: transform 0.3s ease-in-out;
+  &:hover,
+  &:active,
+  &:focus {
+    opacity: .7;
+    transform: scale(0.98);
+  }
+}
+

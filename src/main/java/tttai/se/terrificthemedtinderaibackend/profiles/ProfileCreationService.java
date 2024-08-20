@@ -39,6 +39,7 @@ public class ProfileCreationService {
                 userProfileProperties.get("id"),
                 userProfileProperties.get("firstName"),
                 userProfileProperties.get("lastName"),
+                userProfileProperties.get("nickName"),
                 Integer.parseInt(userProfileProperties.get("age")),
                 userProfileProperties.get("ethnicity"),
                 Gender.valueOf(userProfileProperties.get("gender")),

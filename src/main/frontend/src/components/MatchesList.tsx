@@ -1,5 +1,6 @@
 import {MOCK_PROFILES} from "../assets/constants.tsx";
 import {GenderIcon} from "./GenderIcon.tsx";
+import {Link} from "react-router-dom";
 
 
 export const MatchesList = () => {
@@ -10,27 +11,29 @@ export const MatchesList = () => {
                 {
                     MOCK_PROFILES.map((match) => {
                         return (
-                            <li>
-                                <div className={"card mb-2"}>
-                                    <div className={"card-content"}>
-                                        <div className="media">
-                                            <div className="media-left">
-                                                <figure className="image is-48x48">
-                                                    <img className={"is-rounded"} src={match.imageUrl}
-                                                         alt={match.firstName}/>
-                                                </figure>
-                                            </div>
-                                            <div className="media-content">
-                                                <p className={"title is-5"}>
-                                                    <span className={"mr-2"}>{match.firstName} {match.lastName}</span>
-                                                    <GenderIcon gender={match.gender}/>
-                                                </p>
-                                                {match.firstName}
+                            <li key={match.id}>
+                                <Link to={`/matches/${match.id}`}>
+                                    <div className={"card mb-2 has-hover-with-transform"}>
+                                        <div className={"card-content"}>
+                                            <div className="media">
+                                                <div className="media-left">
+                                                    <figure className="image is-48x48">
+                                                        <img className={"is-rounded"} src={match.imageUrl}
+                                                             alt={match.firstName}/>
+                                                    </figure>
+                                                </div>
+                                                <div className="media-content">
+                                                    <p className={"title is-5"}>
+                                                        <span
+                                                            className={"mr-2"}>{match.firstName} {match.lastName}</span>
+                                                        <GenderIcon gender={match.gender}/>
+                                                    </p>
+                                                    {match.nickName}
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-
+                                </Link>
                             </li>
                         );
                     })

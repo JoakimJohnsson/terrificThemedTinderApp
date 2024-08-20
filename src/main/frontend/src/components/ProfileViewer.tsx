@@ -17,11 +17,11 @@ export const ProfileViewer: FC<ProfileViewerProps> = ({profile}) => {
                     <div className={"card-content"}>
                         <div className="media">
                             <div className="media-left">
-                                <GenderIcon gender={profile.gender}/>
+                                <GenderIcon gender={profile.gender} size={"3x"}/>
                             </div>
                             <div className="media-content">
                                 <p className="title is-4">{profile.firstName} {profile.lastName}, {profile.age}</p>
-                                <p className="subtitle is-6 is-lowercase">@{profile.firstName}.{profile.lastName}</p>
+                                <p className="subtitle is-6 is-lowercase">@{profile.nickName}</p>
                             </div>
                         </div>
                         <div className="content">

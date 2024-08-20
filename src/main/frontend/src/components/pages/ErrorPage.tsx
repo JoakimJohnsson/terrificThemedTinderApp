@@ -16,11 +16,11 @@ export const ErrorPage = () => {
         status = error.status.toString() || "";
     } else if (error instanceof Error) {
         errorMessage = error.message;
-    } else if (typeof error === 'string') {
+    } else if (typeof error === "string") {
         errorMessage = error;
     } else {
         console.error(error);
-        errorMessage = 'Unknown error';
+        errorMessage = "Unknown error";
     }
 
     return (

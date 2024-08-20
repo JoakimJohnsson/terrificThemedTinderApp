@@ -4,6 +4,7 @@ public record Profile(
         String id,
         String firstName,
         String lastName,
+        String nickName,
         int age,
         String ethnicity,           // specifies breed/race
         Gender gender,
