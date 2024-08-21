@@ -1,6 +1,6 @@
 import {FC} from "react";
-import {ProfileViewerProps} from "../types.tsx";
-import {GenderIcon} from "./GenderIcon.tsx";
+import {ProfileViewerProps} from "../types";
+import {GenderIcon} from "./GenderIcon";
 
 
 export const ProfileViewer: FC<ProfileViewerProps> = ({profile}) => {

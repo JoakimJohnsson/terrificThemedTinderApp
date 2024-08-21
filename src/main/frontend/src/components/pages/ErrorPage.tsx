@@ -1,7 +1,7 @@
-import {PAGES} from "../../assets/constants.tsx";
+import {PAGES} from "../../assets/constants";
 import {isRouteErrorResponse, useRouteError} from "react-router-dom";
-import {Header} from "../Header.tsx";
-import {Footer} from "../Footer.tsx";
+import {Header} from "../Header";
+import {Footer} from "../Footer";
 
 
 export const ErrorPage = () => {

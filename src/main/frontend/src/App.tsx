@@ -1,15 +1,15 @@
-import "./assets/main.scss";
+import "./assets/css/main.scss";
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
-import {Layout} from "./Layout.tsx";
-import {ErrorPage} from "./components/pages/ErrorPage.tsx";
-import {Home} from "./components/pages/Home.tsx";
-import {Profiles} from "./components/pages/Profiles.tsx";
-import {Matches} from "./components/pages/Matches.tsx";
-import {Themes} from "./components/pages/Themes.tsx";
-import {ThemeEditor} from "./components/pages/ThemeEditor.tsx";
-import {Profile} from "./components/pages/Profile.tsx";
-import {Match} from "./components/pages/Match.tsx";
-import {Theme} from "./components/pages/Theme.tsx";
+import {Layout} from "./Layout";
+import {ErrorPage} from "./components/pages/ErrorPage";
+import {Home} from "./components/pages/Home";
+import {Profiles} from "./components/pages/Profiles";
+import {Matches} from "./components/pages/Matches";
+import {Themes} from "./components/pages/Themes";
+import {ThemeEditor} from "./components/pages/ThemeEditor";
+import {Profile} from "./components/pages/Profile";
+import {Match} from "./components/pages/Match";
+import {Theme} from "./components/pages/Theme";
 
 const router = createBrowserRouter([
     {

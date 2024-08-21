@@ -1,7 +1,7 @@
 import {FC} from "react";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faMars, faVenus, faTimes, faQuestion} from "@fortawesome/pro-thin-svg-icons";
-import {GenderIconProps} from "../types.tsx";
+import {GenderIconProps} from "../types";
 
 
 export const GenderIcon: FC<GenderIconProps> = ({gender, size = "1x"}) => {

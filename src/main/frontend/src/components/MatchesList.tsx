@@ -1,5 +1,5 @@
-import {MOCK_PROFILES} from "../assets/constants.tsx";
-import {GenderIcon} from "./GenderIcon.tsx";
+import {MOCK_PROFILES} from "../assets/constants";
+import {GenderIcon} from "./GenderIcon";
 import {Link} from "react-router-dom";
 
 

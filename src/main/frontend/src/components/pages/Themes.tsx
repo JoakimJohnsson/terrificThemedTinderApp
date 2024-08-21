@@ -1,4 +1,4 @@
-import {PAGES} from "../../assets/constants.tsx";
+import {PAGES} from "../../assets/constants";
 
 
 export const Themes = () => {

@@ -1,4 +1,4 @@
-import {Profile} from "../types.tsx";
+import {Profile} from "../types";
 
 export const PAGES = {
     APP: {
@@ -12,7 +12,8 @@ export const PAGES = {
         NAME: "Home"
     },
     MATCH: {
-        NAME: "Match"
+        NAME: "Match",
+        HEADING: "Chatting with"
     },
     MATCHES: {
         NAME: "Matches"
@@ -33,6 +34,13 @@ export const PAGES = {
         NAME: "Themes"
     }
 }
+
+export const MOCK_CONVERSATION: { authorId: string; text: string }[] = [
+    { authorId: "1", text: "Hi!" },
+    { authorId: "2", text: "Well hello there" },
+    { authorId: "3", text: "Wot up dawg??" },
+    { authorId: "1", text: "Not much" }
+];
 
 export const MOCK_PROFILES: Profile[] = [
     {
@@ -88,3 +96,7 @@ export const MOCK_PROFILES: Profile[] = [
         profileType: "HOOMAN"
     }
 ];
+
+export const CONFIG = {
+    USER_ID: "1"
+}

@@ -1,5 +1,5 @@
-import {PAGES} from "../../assets/constants.tsx";
-import {ProfileSelector} from "../ProfileSelector.tsx";
+import {PAGES} from "../../assets/constants";
+import {ProfileSelector} from "../ProfileSelector";
 
 
 export const Profiles = () => {

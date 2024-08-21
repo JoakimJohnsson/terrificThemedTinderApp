@@ -18,6 +18,11 @@ export type Profile = {
     profileType: ProfileType;
 };
 
+export type Message = {
+    authorId: string;
+    text: string;
+}
+
 export interface LogoIconProps {
     size?: IconSize;
 }
@@ -25,6 +30,15 @@ export interface LogoIconProps {
 export interface GenderIconProps {
     gender?: Gender;
     size?: IconSize;
+}
+
+export interface ConversationProps {
+    profileId?: string;
+}
+
+export interface MessageProps {
+    isUser?: boolean;
+    message?: Message;
 }
 
 export interface ProfileViewerProps {

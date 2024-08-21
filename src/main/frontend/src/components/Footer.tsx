@@ -1,5 +1,5 @@
-import {LogoIcon} from "./LogoIcon.tsx";
-import {PAGES} from "../assets/constants.tsx";
+import {LogoIcon} from "./LogoIcon";
+import {PAGES} from "../assets/constants";
 
 
 export const Footer = () => {

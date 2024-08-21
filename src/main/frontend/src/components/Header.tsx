@@ -1,5 +1,5 @@
-import {LogoIcon} from "./LogoIcon.tsx";
-import {PAGES} from "../assets/constants.tsx";
+import {LogoIcon} from "./LogoIcon";
+import {PAGES} from "../assets/constants";
 import {faHeart, faUsers, faSwatchbook, faPalette} from "@fortawesome/sharp-duotone-solid-svg-icons";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {NavLink} from "react-router-dom";

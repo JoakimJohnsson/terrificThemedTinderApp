@@ -1,7 +1,7 @@
-import {MOCK_PROFILES} from "../assets/constants.tsx";
+import {MOCK_PROFILES} from "../assets/constants";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faHeart, faTimes} from "@fortawesome/sharp-duotone-solid-svg-icons";
-import {ProfileViewer} from "./ProfileViewer.tsx";
+import {ProfileViewer} from "./ProfileViewer";
 import {useState} from "react";
 
 

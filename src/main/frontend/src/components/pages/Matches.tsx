@@ -1,5 +1,5 @@
-import {PAGES} from "../../assets/constants.tsx";
-import {MatchesList} from "../MatchesList.tsx";
+import {PAGES} from "../../assets/constants";
+import {MatchesList} from "../MatchesList";
 
 
 export const Matches = () => {
