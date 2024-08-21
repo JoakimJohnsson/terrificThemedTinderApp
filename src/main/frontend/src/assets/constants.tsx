@@ -38,8 +38,8 @@ export const PAGES = {
 export const MOCK_CONVERSATION: { authorId: string; text: string }[] = [
     { authorId: "1", text: "Hi!" },
     { authorId: "2", text: "Well hello there" },
-    { authorId: "3", text: "Wot up dawg??" },
-    { authorId: "1", text: "Not much" }
+    { authorId: "3", text: "Wot up dawg?? Wot up dawg?? Wot up dawg?? Wot up dawg?? Wot up dawg?? Wot up dawg?? Wot up dawg?? Wot up dawg??" },
+    { authorId: "1", text: "Not much. I seem to do just fine. How are You doing?" }
 ];
 
 export const MOCK_PROFILES: Profile[] = [
