@@ -6,7 +6,6 @@ import {Profile} from "../types.tsx";
 import {fetchRandomProfile} from "../assets/functions.tsx";
 import {OverlaySpinner} from "./OverlaySpinner.tsx";
 
-// TODO Kanske flytta useEffect load profile till annan komponent så inte hela skiten laddas om hela tiden
 
 export const ProfileSelector = () => {
 
