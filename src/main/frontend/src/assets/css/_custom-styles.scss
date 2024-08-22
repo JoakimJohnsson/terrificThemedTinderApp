@@ -46,7 +46,7 @@
   position: relative;
   padding: .5rem 2.5rem .5rem;
   &:after {
-    font-family: "Font Awesome 6 Free";
+    font-family: "Font Awesome 6 Free", serif;
     color: $white;
     display: inline-block;
     content: "\f4ff";
@@ -62,7 +62,7 @@
   position: relative;
   padding: .5rem .5rem .5rem 2.5rem;
   &:before {
-    font-family: "Font Awesome 6 Free";
+    font-family: "Font Awesome 6 Free", serif;
     color: $primary;
     display: inline-block;
     content: "\f4fb";
