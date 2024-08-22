@@ -6,7 +6,6 @@ import {Home} from "./components/pages/Home";
 import {Profiles} from "./components/pages/Profiles";
 import {Matches} from "./components/pages/Matches";
 import {Themes} from "./components/pages/Themes";
-import {ThemeEditor} from "./components/pages/ThemeEditor";
 import {Profile} from "./components/pages/Profile";
 import {Match} from "./components/pages/Match";
 import {Theme} from "./components/pages/Theme";
@@ -24,7 +23,6 @@ const router = createBrowserRouter([
             {path: "matches/:id", element: <Match/>},
             {path: "themes", element: <Themes/>},
             {path: "themes/:id", element: <Theme/>},
-            {path: "theme-editor", element: <ThemeEditor/>},
         ],
     },
 ]);

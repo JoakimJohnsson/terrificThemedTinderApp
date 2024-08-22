@@ -11,7 +11,7 @@ export const ProfileViewer: FC<ProfileViewerProps> = ({profile}) => {
                 <div className={"card"}>
                     <div className={"card-image"}>
                         <figure className={"image is-1by1"}>
-                            <img src={profile.imageUrl} alt={profile.firstName}/>
+                            <img src={"http://localhost:8080/images/" + profile.imageUrl} alt={profile.firstName}/>
                         </figure>
                     </div>
                     <div className={"card-content"}>
