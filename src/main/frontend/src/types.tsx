@@ -18,6 +18,12 @@ export type Profile = {
     profileType: ProfileType;
 };
 
+export type Match = {
+    id: string;
+    profile: Profile;
+    conversationId: string;
+};
+
 export type Message = {
     authorId: string;
     text: string;
@@ -44,6 +50,9 @@ export interface MessageProps {
 export interface ProfileViewerProps {
     profile?: Profile | null | undefined;
     loading?: boolean;
+}
+export interface MatchListItemProps {
+    match?: Match | null | undefined;
 }
 
 export type MatchParams = {

@@ -1,16 +1,37 @@
 // Service functions
 export const fetchRandomProfile = async () => {
-        const response = await fetch("http://localhost:8080/profiles/random");
-        if (!response.ok) {
-            throw new Error("Failed to get random profile");
-        }
-        return response.json();
+    const response = await fetch("http://localhost:8080/profiles/random");
+    if (!response.ok) {
+        throw new Error("Failed to get random profile");
+    }
+    return response.json();
 }
 
 export const fetchProfileById = async (id: string | undefined) => {
-        const response = await fetch("http://localhost:8080/profiles/" + id);
-        if (!response.ok) {
-            throw new Error("Failed to get profile with id " + id);
-        }
-        return response.json();
+    const response = await fetch("http://localhost:8080/profiles/" + id);
+    if (!response.ok) {
+        throw new Error("Failed to get profile with id " + id);
+    }
+    return response.json();
+}
+
+export const fetchAllMatches = async () => {
+    const response = await fetch("http://localhost:8080/matches");
+    if (!response.ok) {
+        throw new Error("Failed to get all matches");
+    }
+    return response.json();
+}
+
+export const addNewMatch = async (profileId: string | undefined) => {
+    const response = await fetch("http://localhost:8080/matches", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({profileId})
+    });
+    if (!response.ok) {
+        throw new Error("Failed to add new match with profile " + profileId);
+    }
 }

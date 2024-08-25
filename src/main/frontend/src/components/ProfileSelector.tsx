@@ -3,7 +3,7 @@ import {faHeart, faTimes} from "@fortawesome/sharp-duotone-solid-svg-icons";
 import {ProfileViewer} from "./ProfileViewer";
 import {useEffect, useState} from "react";
 import {Profile} from "../types.tsx";
-import {fetchRandomProfile} from "../assets/functions.tsx";
+import {addNewMatch, fetchRandomProfile} from "../assets/functions.tsx";
 import {DUMMY_PROFILE} from "../assets/constants.tsx";
 
 
@@ -44,7 +44,9 @@ export const ProfileSelector = () => {
     };
 
     const handleRightSwipe = () => {
-        loadRandomProfile().then(() => setLoading(false));
+        addNewMatch(currentProfile?.id).then(() => {
+            loadRandomProfile().then(() => setLoading(false));
+        });
     };
 
     return (

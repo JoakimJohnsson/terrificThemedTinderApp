@@ -4,6 +4,7 @@ import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
+import tttai.se.terrificthemedtinderaibackend.matches.MatchRepository;
 
 import java.io.*;
 import java.util.*;
@@ -18,9 +19,11 @@ public class ProfileCreationService {
     @Value("#{${tinderai.character.user}}")
     private Map<String, String> userProfileProperties;
     private final ProfileRepository profileRepository;
+    private final MatchRepository matchRepository;
 
-    public ProfileCreationService(ProfileRepository profileRepository) {
+    public ProfileCreationService(ProfileRepository profileRepository, MatchRepository matchRepository) {
         this.profileRepository = profileRepository;
+        this.matchRepository = matchRepository;
     }
 
     public void saveProfilesToDB() {
@@ -30,6 +33,7 @@ public class ProfileCreationService {
                     new FileReader(PROFILES_FILE_PATH),
                     new TypeToken<ArrayList<Profile>>() {}.getType()
             );
+            matchRepository.deleteAll();
             profileRepository.deleteAll();
             profileRepository.saveAll(existingProfiles);
         } catch (FileNotFoundException e) {
