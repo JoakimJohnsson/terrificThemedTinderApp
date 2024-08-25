@@ -4,8 +4,6 @@ import {ProfileSelector} from "../ProfileSelector";
 
 export const Profiles = () => {
 
-
-
     return (
         <div className="container">
             <h1 className={"title is-1"}>{PAGES.PROFILES.NAME}</h1>

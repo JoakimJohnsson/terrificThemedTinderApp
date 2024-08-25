@@ -1,10 +1,7 @@
 package tttai.se.terrificthemedtinderaibackend.matches;
 
 import org.springframework.http.HttpStatus;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 import tttai.se.terrificthemedtinderaibackend.conversations.Conversation;
 import tttai.se.terrificthemedtinderaibackend.conversations.ConversationRepository;
@@ -30,6 +27,7 @@ public class MatchController {
         this.matchRepository = matchRepository;
     }
 
+    @CrossOrigin(origins = "*")
     @PostMapping("/matches")
     public Match createNewMatch(@RequestBody CreateMatchRequest request) {
         Profile profile = profileRepository.findById(request.profileId())
@@ -52,6 +50,7 @@ public class MatchController {
         return match;
     }
 
+    @CrossOrigin(origins = "*")
     @GetMapping("/matches")
     public List<Match> getAllMatches() {
         return matchRepository.findAll();

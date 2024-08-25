@@ -22,6 +22,7 @@ public class ConversationController {
         this.profileRepository = profileRepository;
     }
 
+    @CrossOrigin(origins = "*")
     @PostMapping("/conversations")
     public Conversation createNewConversation(@RequestBody CreateConversationRequest request) {
         profileRepository.findById(request.profileId())
@@ -36,12 +37,14 @@ public class ConversationController {
         return conversation;
     }
 
+    @CrossOrigin(origins = "*")
     @GetMapping("conversations/{conversationId}")
     public Conversation getConversation(@PathVariable String conversationId) {
         return conversationRepository.findById(conversationId)
                 .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Conversation not found. ID: " + conversationId));
     }
 
+    @CrossOrigin(origins = "*")
     @PostMapping("conversations/{conversationId}")
     public Conversation addMessageToConversation(@PathVariable String conversationId, @RequestBody ChatMessage message) {
         Conversation conversation = conversationRepository.findById(conversationId)
