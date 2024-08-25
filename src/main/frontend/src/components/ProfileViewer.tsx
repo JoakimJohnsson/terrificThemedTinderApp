@@ -3,7 +3,7 @@ import {ProfileViewerProps} from "../types";
 import {GenderIcon} from "./GenderIcon";
 
 
-export const ProfileViewer: FC<ProfileViewerProps> = ({profile}) => {
+export const ProfileViewer: FC<ProfileViewerProps> = ({profile, loading = false }) => {
 
     return profile && (
         <div className={"columns is-flex is-justify-content-center"}>
@@ -11,7 +11,8 @@ export const ProfileViewer: FC<ProfileViewerProps> = ({profile}) => {
                 <div className={"card"}>
                     <div className={"card-image is-relative"}>
                         <figure className={"image is-1by1"}>
-                            <img src={"http://localhost:8080/images/" + profile.imageUrl} alt={profile.firstName}/>
+                            <img src={"http://localhost:8080/images/" + (loading ? "default.jpg" : profile.imageUrl)}
+                                 alt={profile.firstName}/>
                         </figure>
                         <div className={"is-position-absolute"}>
                             <div className="media">

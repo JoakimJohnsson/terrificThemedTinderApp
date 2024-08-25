@@ -43,6 +43,7 @@ export interface MessageProps {
 
 export interface ProfileViewerProps {
     profile?: Profile | null | undefined;
+    loading?: boolean;
 }
 
 export type MatchParams = {

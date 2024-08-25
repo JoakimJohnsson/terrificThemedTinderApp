@@ -4,15 +4,15 @@ import {ProfileViewer} from "./ProfileViewer";
 import {useEffect, useState} from "react";
 import {Profile} from "../types.tsx";
 import {fetchRandomProfile} from "../assets/functions.tsx";
-import {OverlaySpinner} from "./OverlaySpinner.tsx";
+import {DUMMY_PROFILE} from "../assets/constants.tsx";
 
 
 export const ProfileSelector = () => {
 
     const [currentProfile, setCurrentProfile] = useState<Profile | null>(null);
     const [loading, setLoading] = useState(false);
-
-    console.log("currentProfile", currentProfile)
+    const DIRECTION_LEFT = "L";
+    const DIRECTION_RIGHT = "R";
 
     const loadRandomProfile = async () => {
         try {
@@ -28,28 +28,51 @@ export const ProfileSelector = () => {
         loadRandomProfile().then(() => setLoading(false));
     }, []);
 
-    const handleLeft = () => {
+    const onSwipe = (direction: string) => {
         setLoading(true);
+        if (direction === DIRECTION_LEFT) {
+            handleLeftSwipe();
+        } else if (direction === DIRECTION_RIGHT) {
+            handleRightSwipe();
+        } else {
+            loadRandomProfile().then(() => setLoading(false));
+        }
+    }
+
+    const handleLeftSwipe = () => {
         loadRandomProfile().then(() => setLoading(false));
     };
 
-    const handleRight = () => {
-        setLoading(true);
+    const handleRightSwipe = () => {
         loadRandomProfile().then(() => setLoading(false));
     };
 
-    return loading ?
-        <OverlaySpinner/>
-        :
+    return (
         <>
-            <ProfileViewer profile={currentProfile}/>
+            {
+                loading ?
+                    <ProfileViewer profile={DUMMY_PROFILE} loading={loading}/>
+                    :
+                    <ProfileViewer profile={currentProfile}/>
+            }
             <div className="has-text-centered mt-4 content">
-                <button className="button is-danger mr-3" onClick={handleLeft} aria-label="Swipe left">
+                <button
+                    className="button is-danger mr-3"
+                    onClick={() => onSwipe(DIRECTION_LEFT)}
+                    aria-label="Swipe left"
+                    disabled={loading}
+                >
                     <FontAwesomeIcon icon={faTimes} size={"2x"} className={"fa-fw mx-2 my-1"}/>
                 </button>
-                <button className="button is-success" onClick={handleRight} aria-label="Swipe right">
+                <button
+                    className="button is-success"
+                    onClick={() => onSwipe(DIRECTION_RIGHT)}
+                    aria-label="Swipe right"
+                    disabled={loading}
+                >
                     <FontAwesomeIcon icon={faHeart} size={"2x"} className={"fa-fw mx-2 my-1"}/>
                 </button>
             </div>
         </>
+    )
 }

@@ -42,6 +42,20 @@ export const MOCK_CONVERSATION: { authorId: string; text: string }[] = [
     { authorId: "1", text: "Not much. I seem to do just fine. How are You doing?" }
 ];
 
+export const DUMMY_PROFILE: Profile = {
+    id: "12345",
+    firstName: "Xxxxxx",
+    lastName: "Xxxxxx",
+    nickName: "xxXXxxxxXX",
+    age: 99,
+    ethnicity: "Caucasian",
+    gender: "FEMALE",
+    bio: "X xxx xx xxxxxxxxx xxx xxxxxx. Xxxxxx xx xxxxxx Xxxx xx xxxxxxx xxxxxx. Xxxxxxxxx xxxxxxxx.",
+    imageUrl: "",
+    myersBriggsPersonalityType: "INTJ",
+    profileType: "HOOMAN"
+}
+
 export const MOCK_PROFILES: Profile[] = [
     {
         id: "12345",

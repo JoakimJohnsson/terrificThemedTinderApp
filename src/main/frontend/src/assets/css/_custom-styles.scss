@@ -92,6 +92,13 @@
   }
 }
 
+.dummy-image {
+  width: 512px;
+  height: 512px;
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512"><rect width="100%" height="100%" fill="#ddd"/><text x="50%" y="50%" font-size="20" fill="#555" alignment-baseline="middle" text-anchor="middle">Dummy Image</text></svg>');
+  background-size: cover;
+}
+
 // Typography
 .show-two-rows {
   display: -webkit-box;
