@@ -4,7 +4,6 @@ import {ConversationProps} from "../types";
 import {Message} from "./Message";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faSend, faTimes} from "@fortawesome/pro-thin-svg-icons";
-import {BackButton} from "./BackButton.tsx";
 
 
 export const Conversation: FC<ConversationProps> = ({profileId}) => {
@@ -26,9 +25,6 @@ export const Conversation: FC<ConversationProps> = ({profileId}) => {
     return (
         <div className={"columns is-flex is-justify-content-center"}>
             <div className={"column is-12-mobile is-8-tablet is-6-desktop is-4-fullhd"}>
-                <div className={"p-2"}>
-                    <BackButton/>
-                </div>
                 {
                     MOCK_CONVERSATION.map((message, index) => {
                         return message.authorId === CONFIG.USER_ID ?

@@ -32,9 +32,7 @@ export const Profile = () => {
         :
         <div className="container">
             <h1 className={"title is-1"}>{profile?.firstName} {profile?.lastName}</h1>
-            <div className={"p-2"}>
-                <BackButton/>
-            </div>
+            <BackButton/>
             <div className={"columns is-flex is-justify-content-center"}>
                 <div className={"column is-12-mobile is-10-tablet is-8-desktop is-6-fullhd"}>
 

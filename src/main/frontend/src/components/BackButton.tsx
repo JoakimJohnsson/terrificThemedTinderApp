@@ -8,8 +8,10 @@ export const BackButton = () => {
     const navigate = useNavigate();
 
     return (
-        <button className={"button is-primary"} onClick={() => navigate(-1)}>
-            <FontAwesomeIcon className={"mr-2"} icon={faArrowLeft}/> Go Back
-        </button>
+        <div className={"mb-5"}>
+            <button className={"button is-primary"} onClick={() => navigate(-1)}>
+                <FontAwesomeIcon className={"mr-2"} icon={faArrowLeft}/> Go Back
+            </button>
+        </div>
     )
 }
