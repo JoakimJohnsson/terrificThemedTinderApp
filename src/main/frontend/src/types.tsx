@@ -49,3 +49,6 @@ export interface ProfileViewerProps {
 export type MatchParams = {
     id: string;
 }
+export type ProfileParams = {
+    id: string;
+}
