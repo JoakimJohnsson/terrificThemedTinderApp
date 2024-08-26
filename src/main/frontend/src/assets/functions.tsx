@@ -15,6 +15,14 @@ export const fetchProfileById = async (id: string | undefined) => {
     return response.json();
 }
 
+export const fetchMatchById = async (id: string | undefined) => {
+    const response = await fetch("http://localhost:8080/matches/" + id);
+    if (!response.ok) {
+        throw new Error("Failed to get match with id " + id);
+    }
+    return response.json();
+}
+
 export const fetchAllMatches = async () => {
     const response = await fetch("http://localhost:8080/matches");
     if (!response.ok) {
@@ -34,4 +42,12 @@ export const addNewMatch = async (profileId: string | undefined) => {
     if (!response.ok) {
         throw new Error("Failed to add new match with profile " + profileId);
     }
+}
+
+export const fetchConversationById = async (id: string | undefined) => {
+    const response = await fetch("http://localhost:8080/conversations/" + id);
+    if (!response.ok) {
+        throw new Error("Failed to get conversation with id " + id);
+    }
+    return response.json();
 }

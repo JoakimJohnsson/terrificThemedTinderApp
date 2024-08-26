@@ -1,16 +1,36 @@
-import {CONFIG, MOCK_CONVERSATION} from "../assets/constants";
-import {FC, useState} from "react";
-import {ConversationProps} from "../types";
+import {CONFIG} from "../assets/constants";
+import {FC, useEffect, useState} from "react";
+import {Conversation as ConversationType, ConversationProps} from "../types";
 import {Message} from "./Message";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faSend, faTimes} from "@fortawesome/pro-thin-svg-icons";
+import {fetchConversationById} from "../assets/functions.tsx";
+import {OverlaySpinner} from "./OverlaySpinner.tsx";
 
 
-export const Conversation: FC<ConversationProps> = ({profileId}) => {
+export const Conversation: FC<ConversationProps> = ({match}) => {
 
-    console.log(profileId);
+    console.log("match: ", match);
 
     const [input, setInput] = useState("");
+    const [conversation, setConversation] = useState<ConversationType | null>(null);
+    const [loading, setLoading] = useState(false);
+
+
+    const loadConversation = async () => {
+        if (!match) return;
+        try {
+            const conversation = await fetchConversationById(match.conversationId);
+            setConversation(conversation);
+        } catch (error) {
+            console.error(error);
+        }
+    }
+
+    useEffect(() => {
+        setLoading(true);
+        loadConversation().then(() => setLoading(false));
+    }, []);
 
     const handleSend = () => {
         if (input.trim()) {
@@ -22,11 +42,15 @@ export const Conversation: FC<ConversationProps> = ({profileId}) => {
         setInput("");
     }
 
-    return (
+    console.log("Conversation: ", conversation)
+
+    return loading ?
+        <OverlaySpinner/>
+        :
         <div className={"columns is-flex is-justify-content-center"}>
             <div className={"column is-12-mobile is-8-tablet is-6-desktop is-4-fullhd"}>
                 {
-                    MOCK_CONVERSATION.map((message, index) => {
+                    conversation?.messages.map((message, index) => {
                         return message.authorId === CONFIG.USER_ID ?
                             <Message key={index} isUser message={message}/>
                             :
@@ -51,5 +75,4 @@ export const Conversation: FC<ConversationProps> = ({profileId}) => {
                 </div>
             </div>
         </div>
-    )
 }

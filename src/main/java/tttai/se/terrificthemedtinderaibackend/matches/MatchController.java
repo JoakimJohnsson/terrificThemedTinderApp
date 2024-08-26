@@ -56,6 +56,13 @@ public class MatchController {
         return matchRepository.findAll();
     }
 
+    @CrossOrigin(origins = "*")
+    @GetMapping("matches/{matchId}")
+    public Match getMatch(@PathVariable String matchId) {
+        return matchRepository.findById(matchId)
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Match not found. ID: " + matchId));
+    }
+
     public record CreateMatchRequest(
             String profileId
     ) {

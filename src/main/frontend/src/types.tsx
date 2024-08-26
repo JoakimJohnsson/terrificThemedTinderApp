@@ -24,6 +24,12 @@ export type Match = {
     conversationId: string;
 };
 
+export type Conversation = {
+    id: string;
+    profileId: string;
+    messages: Message[];
+};
+
 export type Message = {
     authorId: string;
     text: string;
@@ -39,7 +45,7 @@ export interface GenderIconProps {
 }
 
 export interface ConversationProps {
-    profileId?: string;
+    match?: Match | null | undefined;
 }
 
 export interface MessageProps {
