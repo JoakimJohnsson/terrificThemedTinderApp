@@ -32,7 +32,7 @@ export type Conversation = {
 
 export type Message = {
     authorId: string;
-    text: string;
+    messageText: string;
 }
 
 export interface LogoIconProps {

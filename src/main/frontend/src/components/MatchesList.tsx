@@ -12,8 +12,8 @@ export const MatchesList = () => {
 
     const loadMatches = async () => {
         try {
-            const matches = await fetchAllMatches();
-            setMatches(matches);
+            const tmpMatches = await fetchAllMatches();
+            setMatches(tmpMatches);
         } catch (error) {
             console.error(error);
         }

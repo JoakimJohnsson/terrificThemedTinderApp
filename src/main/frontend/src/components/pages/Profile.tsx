@@ -10,13 +10,13 @@ import {GenderIcon} from "../GenderIcon.tsx";
 export const Profile = () => {
 
     const {id} = useParams<ProfileParams>();
-    const [profile, setProfile] = useState<ProfileType | null>(null);
+    const [currentProfile, setCurrentProfile] = useState<ProfileType | null>(null);
     const [loading, setLoading] = useState(false);
 
     const loadProfile = async () => {
         try {
             const profile = await fetchProfileById(id);
-            setProfile(profile);
+            setCurrentProfile(profile);
         } catch (error) {
             console.error(error);
         }
@@ -31,7 +31,7 @@ export const Profile = () => {
         <OverlaySpinner/>
         :
         <div className="container">
-            <h1 className={"title is-1"}>{profile?.firstName} {profile?.lastName}</h1>
+            <h1 className={"title is-1"}>{currentProfile?.firstName} {currentProfile?.lastName}</h1>
             <BackButton/>
             <div className={"columns is-flex is-justify-content-center"}>
                 <div className={"column is-12-mobile is-10-tablet is-8-desktop is-6-fullhd"}>
@@ -40,22 +40,22 @@ export const Profile = () => {
                         <div className={"card-image"}>
                             <figure className={"image is-1by1"}>
                                 <img
-                                    src={"http://localhost:8080/images/" + (loading ? "default.jpg" : profile?.imageUrl)}
-                                    alt={profile?.firstName}/>
+                                    src={"http://localhost:8080/images/" + (loading ? "default.jpg" : currentProfile?.imageUrl)}
+                                    alt={currentProfile?.firstName}/>
                             </figure>
                         </div>
                         <div className={"card-content"}>
                             <div className="content">
                                 <div className="media">
                                     <div className="media-left">
-                                        <GenderIcon gender={profile?.gender} size={"3x"}/>
+                                        <GenderIcon gender={currentProfile?.gender} size={"3x"}/>
                                     </div>
                                     <div className="media-content">
-                                        <p className="title is-4">{profile?.firstName} {profile?.lastName}, {profile?.age}</p>
-                                        <p className="subtitle is-6 is-lowercase">@{profile?.nickName}</p>
+                                        <p className="title is-4">{currentProfile?.firstName} {currentProfile?.lastName}, {currentProfile?.age}</p>
+                                        <p className="subtitle is-6 is-lowercase">@{currentProfile?.nickName}</p>
                                     </div>
                                 </div>
-                                <p>{profile?.bio}</p>
+                                <p>{currentProfile?.bio}</p>
                                 <time dateTime="2016-1-1">11:09 PM - 1 Jan 2016</time>
                             </div>
                         </div>

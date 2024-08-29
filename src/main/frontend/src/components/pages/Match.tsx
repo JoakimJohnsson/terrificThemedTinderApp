@@ -11,13 +11,13 @@ import {OverlaySpinner} from "../OverlaySpinner.tsx";
 export const Match = () => {
 
     const {id} = useParams<MatchParams>();
-    const [match, setMatch] = useState<MatchType | null>(null);
+    const [currentMatch, setCurrentMatch] = useState<MatchType | null>(null);
     const [loading, setLoading] = useState(false);
 
     const loadMatch = async () => {
         try {
             const match = await fetchMatchById(id);
-            setMatch(match);
+            setCurrentMatch(match);
         } catch (error) {
             console.error(error);
         }
@@ -30,13 +30,13 @@ export const Match = () => {
 
     return (
         <div className="container">
-            <h1 className={"title is-1"}>{PAGES.MATCH.HEADING} {match?.profile?.firstName}</h1>
+            <h1 className={"title is-1"}>{PAGES.MATCH.HEADING} {currentMatch?.profile?.firstName}</h1>
             <BackButton/>
             {
                 loading ?
                     <OverlaySpinner/>
                     :
-                    <Conversation match={match}/>
+                    <Conversation match={currentMatch}/>
             }
         </div>
     )

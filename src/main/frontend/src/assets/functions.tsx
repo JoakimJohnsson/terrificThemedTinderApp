@@ -51,3 +51,18 @@ export const fetchConversationById = async (id: string | undefined) => {
     }
     return response.json();
 }
+
+export const sendMessage = async (conversationId: string | undefined, messageText: string) => {
+
+    const response = await fetch("http://localhost:8080/conversations/" + conversationId, {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({messageText: messageText, authorId: 1})
+    });
+    if (!response.ok) {
+        throw new Error("Failed to send message to conversation " + conversationId);
+    }
+
+}
