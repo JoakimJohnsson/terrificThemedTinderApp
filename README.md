@@ -9,6 +9,7 @@ cats, dogs etc. This will be more fun than a Tinder app.
 * [Java Brains YouTube video](https://www.youtube.com/watch?v=k3fSQpz2Esg)
 * [Spring Initializer](https://start.spring.io)
 * [Ollama](https://ollama.com)
+* [Java Brains Ollama video](https://www.youtube.com/watch?v=GP_ugyTJIrg&t=653s)
 * [Bulma](https://bulma.io)
 * [FontAwesome](https://fontawesome.com)
 * [Google Fonts](https://fonts.google.com)
@@ -25,19 +26,26 @@ Create a file in ***src/main/resources*** called `application-local.properties`.
 
 ```
 spring.application.name=terrific-themed-tinder-ai-backend
-spring.ai.openai.api-key=<ADD YOUR KEY HERE>
-spring.ai.openai.chat.options.model=gpt-4o
-spring.ai.openai.chat.options.temperature=0.7
+spring.ai.ollama.chat.options.model=llama3.1
 
 # User's profile
-tinderai.character.user={id:"1", firstName:"Some", lastName:"Dude", age:43, ethnicity:"Black", gender:"MALE", bio:"Software engineer, teacher and learner. I like reading and making things.", imageUrl:"", myersBriggsPersonalityType:"INTP"}
+tinderai.character.user={id:"user666", firstName:"Some", lastName:"Dude", age:43, ethnicity:"Black", gender:"MALE", bio:"Software engineer, teacher and learner. I like reading and making things.", imageUrl:"", myersBriggsPersonalityType:"INTP"}
 ```
 
 Don't forget to add Your own values.
 
-### Spring AI - OpenAI
+### Spring AI - Ollama
 
-> Note - When using a newer Spring AI version ( > v1.0.0 ) - Use OpenAiChatModel instead of OpenAiChatClient.
+I'm using a local installation of Ollama instead of OpenAI.
+
+1. Go to ollama.com and install Ollama.
+2. Install Ollama commandline.
+3. In terminal run `ollama run llama3.1` to run Llama 3.1 LLM.
+4. Make sure you hava property spring.ai.ollama.chat.options.model=llama3.1 in your application-local.properties.
+
+> Note - When using a newer Spring AI version ( > v1.0.0 ) - Use OllamaChatModel instead of OllamaChatClient (As mentioned in tutorial).
+
+Now, if Ollama and Llama 3.1 is running - the application will make local calls instead of to OpenAI api.
 
 ## Frontend
 
