@@ -1,4 +1,6 @@
 // Service functions
+import {CONFIG} from "./constants.tsx";
+
 export const fetchRandomProfile = async () => {
     const response = await fetch("http://localhost:8080/profiles/random");
     if (!response.ok) {
@@ -59,7 +61,7 @@ export const sendMessage = async (conversationId: string | undefined, messageTex
         headers: {
             "Content-Type": "application/json"
         },
-        body: JSON.stringify({messageText: messageText, authorId: 1})
+        body: JSON.stringify({messageText: messageText, authorId: CONFIG.USER_ID})
     });
     if (!response.ok) {
         throw new Error("Failed to send message to conversation " + conversationId);

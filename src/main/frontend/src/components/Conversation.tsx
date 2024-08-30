@@ -3,7 +3,7 @@ import {FC, useEffect, useState} from "react";
 import {Conversation as ConversationType, ConversationProps} from "../types";
 import {Message} from "./Message";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faSend, faTimes} from "@fortawesome/pro-thin-svg-icons";
+import {faFaceThinking, faSend, faTimes} from "@fortawesome/sharp-duotone-solid-svg-icons";
 import {fetchConversationById, sendMessage} from "../assets/functions.tsx";
 import {OverlaySpinner} from "./OverlaySpinner.tsx";
 
@@ -13,6 +13,7 @@ export const Conversation: FC<ConversationProps> = ({match}) => {
     const [input, setInput] = useState("");
     const [currentConversation, setCurrentConversation] = useState<ConversationType | null>(null);
     const [loading, setLoading] = useState(false);
+    const [loadingMessage, setLoadingMessage] = useState(false);
 
     const loadConversation = async () => {
         if (!match) return;
@@ -26,16 +27,16 @@ export const Conversation: FC<ConversationProps> = ({match}) => {
 
     useEffect(() => {
         if (currentConversation) return;
-        console.log("loading conversation!")
         setLoading(true);
         loadConversation().then(() => setLoading(false));
     }, []);
 
     const handleSend = () => {
         if (input.trim()) {
+            setLoadingMessage(true);
             sendMessage(currentConversation?.id, input).then(() => {
-                handleClear();setLoading(true);
-                loadConversation().then(() => setLoading(false));
+                handleClear();
+                loadConversation().then(() => setLoadingMessage(false));
             });
         }
     }
@@ -57,12 +58,23 @@ export const Conversation: FC<ConversationProps> = ({match}) => {
                             <Message key={index} message={message}/>
                     })
                 }
+                {
+                    loadingMessage &&
+                    <div className={"p-2 fa-fade"}>
+                        <FontAwesomeIcon className={"me-2"} size={"2xl"} icon={faFaceThinking}/> Thinking about you...
+                    </div>
+                }
                 <div className={"p-2 pt-4"}>
                     <input
                         className="input is-inline-block mb-2"
                         type="text"
                         value={input}
                         onChange={e => setInput(e.target.value)}
+                        onKeyDown={e => {
+                            if (e.key === 'Enter') {
+                                handleSend();
+                            }
+                        }}
                         placeholder="Text input"
 
                     />
