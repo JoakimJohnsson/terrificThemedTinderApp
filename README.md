@@ -41,7 +41,8 @@ I'm using a local installation of Ollama instead of OpenAI.
 1. Go to ollama.com and install Ollama.
 2. Install Ollama commandline.
 3. In terminal run `ollama run llama3.1` to run Llama 3.1 LLM.
-4. Make sure you hava property spring.ai.ollama.chat.options.model=llama3.1 in your application-local.properties.
+4. Make sure you have artifact spring-ai-ollama-spring-boot-starter in your pom.xml. And removed the openAi Spring boot starter. It's not necessary.
+5. Make sure you hava property spring.ai.ollama.chat.options.model=llama3.1 in your application-local.properties.
 
 > Note - When using a newer Spring AI version ( > v1.0.0 ) - Use OllamaChatModel instead of OllamaChatClient (As mentioned in tutorial).
 
