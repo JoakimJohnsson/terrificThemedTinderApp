@@ -20,37 +20,49 @@ public class ConversationService {
         this.chatModel = chatModel;
     }
 
-    public Conversation generateProfileResponse(Conversation conversation, Profile profile, Profile user) {
+    public void generateProfileResponse(Conversation conversation, Profile profile, Profile user) {
 
-        // System message (prompt)
-        SystemMessage systemMessage = new SystemMessage("Pretend to be a Tinder user");
+        String systemMessageStr = STR."""
+                You are a \{profile.age()} year old \{profile.profileType()}.
+                You are a \{profile.gender()} of \{profile.ethnicity()} ethnicity.
+                Your name is \{profile.firstName()} \{profile.lastName()} and your nickname is \{profile.nickName()}.
+                You are chatting with your owner, who is called \{user.firstName()} and this is an in-app conversation.
+                Your bio is: \{profile.bio()}.
+                Your Myers Briggs personality is \{profile.myersBriggsPersonalityType()}
+                Your owners bio is: \{user.bio()}.
+                Respond in the role of this person.
+                """;
 
-        // Assistant message and User message
+        // System message (prompt) - instructions to AI
+        SystemMessage systemMessage = new SystemMessage(systemMessageStr);
+
+        // Adds previous messages to conversation - based on author
         List<AbstractMessage> messages = conversation.messages().stream().map(message -> {
             if (message.authorId().equals(profile.id())) {
+                // Adds message as an assistant (AI) message (What the AI said)
                 return new AssistantMessage(message.messageText());
             } else {
+                // Adds message as a user message (What the user said)
                 return new UserMessage(message.messageText());
             }
         }).toList();
 
         List<Message> promptMessages = new ArrayList<>();
+        // The system message
         promptMessages.add(systemMessage);
+        // Our complete list of assistant / user messages so far
         promptMessages.addAll(messages);
-
+        // The prompt is a representation of the conversation so far that the chatModel will understand
         Prompt prompt = new Prompt(promptMessages);
-        ChatResponse response =  chatModel.call(prompt);
+        System.out.println("prompt:");
+        System.out.println(prompt);
+        ChatResponse response = chatModel.call(prompt);
 
+        // Add the AI response to the Conversation
         conversation.messages().add(new ChatMessage(
                 response.getResult().getOutput().getContent(),
                 profile.id(),
                 LocalDateTime.now()
         ));
-
-        String result = response.getResult().getOutput().getContent();
-        System.out.println("Result : " + result);
-
-        return conversation;
     }
-
 }

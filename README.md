@@ -34,6 +34,42 @@ tinderai.character.user={id:"user666", firstName:"Some", lastName:"Dude", age:43
 
 Don't forget to add Your own values.
 
+### Java version
+
+I'm running it on Java 21. In order to use String Templates, I needed to change the build to add some extra Maven
+dependencies and the `--enable-preview` argument.
+
+```
+<build>
+    <plugins>
+        <plugin>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-maven-plugin</artifactId>
+        </plugin>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.13.0</version> 
+            <configuration>
+                <source>${java.version}</source>
+                <target>${java.version}</target>
+                <compilerArgs>
+                    <arg>--enable-preview</arg>
+                </compilerArgs>
+            </configuration>
+        </plugin>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            <version>3.2.5</version>
+            <configuration>
+                <argLine>--enable-preview</argLine>
+            </configuration>
+        </plugin>
+    </plugins>
+</build>
+```
+
 ### Spring AI - Ollama
 
 I'm using a local installation of Ollama instead of OpenAI.
@@ -41,10 +77,12 @@ I'm using a local installation of Ollama instead of OpenAI.
 1. Go to ollama.com and install Ollama.
 2. Install Ollama commandline.
 3. In terminal run `ollama run llama3.1` to run Llama 3.1 LLM.
-4. Make sure you have artifact spring-ai-ollama-spring-boot-starter in your pom.xml. And removed the openAi Spring boot starter. It's not necessary.
+4. Make sure you have artifact spring-ai-ollama-spring-boot-starter in your pom.xml. And removed the openAi Spring boot
+   starter. It's not necessary.
 5. Make sure you hava property spring.ai.ollama.chat.options.model=llama3.1 in your application-local.properties.
 
-> Note - When using a newer Spring AI version ( > v1.0.0 ) - Use OllamaChatModel instead of OllamaChatClient (As mentioned in tutorial).
+> Note - When using a newer Spring AI version ( > v1.0.0 ) - Use OllamaChatModel instead of OllamaChatClient (As
+> mentioned in tutorial).
 
 Now, if Ollama and Llama 3.1 is running - the application will make local calls instead of to OpenAI api.
 
@@ -55,9 +93,10 @@ in `src/main/frontend`.
 
 ### Font Awesome
 
-I will use Font Awesome pro instead of Lucide React. 
+I will use Font Awesome pro instead of Lucide React.
 
 ### Bulma
+
 I will use Bulma instead of TailWind.
 Bulma can be customized [here](https://bulma.io/documentation/start/alternative-versions/). Adjust and add changes
 to `theme.css`. There, I have also added new Google fonts for this project.

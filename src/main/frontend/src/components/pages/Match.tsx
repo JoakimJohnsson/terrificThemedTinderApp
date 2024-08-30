@@ -30,7 +30,13 @@ export const Match = () => {
 
     return (
         <div className="container">
-            <h1 className={"title is-1"}>{PAGES.MATCH.HEADING} {currentMatch?.profile?.firstName}</h1>
+            <h1 className={"title is-1 mb-0"}>{PAGES.MATCH.HEADING} {currentMatch?.profile?.firstName}</h1>
+            <p className={"subtitle is-6"}>
+                <span className={"has-text-weight-bold mr-2"}>Nickname:</span>
+                <span className={"mr-3"}>{currentMatch?.profile?.nickName}</span>
+                <span className={"has-text-weight-bold mr-2"}>Age:</span>
+                <span className={"mr-3"}>{currentMatch?.profile?.age}</span>
+            </p>
             <BackButton/>
             {
                 loading ?

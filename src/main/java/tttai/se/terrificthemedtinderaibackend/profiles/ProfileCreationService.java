@@ -4,6 +4,7 @@ import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
+import tttai.se.terrificthemedtinderaibackend.conversations.ConversationRepository;
 import tttai.se.terrificthemedtinderaibackend.matches.MatchRepository;
 
 import java.io.*;
@@ -15,15 +16,17 @@ import static tttai.se.terrificthemedtinderaibackend.ApplicationUtils.printRepos
 public class ProfileCreationService {
 
     private static final String PROFILES_FILE_PATH = "profiles.json";
+    private final ConversationRepository conversationRepository;
     // User profile from properties file
     @Value("#{${tinderai.character.user}}")
     private Map<String, String> userProfileProperties;
     private final ProfileRepository profileRepository;
     private final MatchRepository matchRepository;
 
-    public ProfileCreationService(ProfileRepository profileRepository, MatchRepository matchRepository) {
+    public ProfileCreationService(ProfileRepository profileRepository, MatchRepository matchRepository, ConversationRepository conversationRepository) {
         this.profileRepository = profileRepository;
         this.matchRepository = matchRepository;
+        this.conversationRepository = conversationRepository;
     }
 
     public void saveProfilesToDB() {
@@ -33,12 +36,14 @@ public class ProfileCreationService {
                     new FileReader(PROFILES_FILE_PATH),
                     new TypeToken<ArrayList<Profile>>() {}.getType()
             );
+            conversationRepository.deleteAll();
             matchRepository.deleteAll();
             profileRepository.deleteAll();
             profileRepository.saveAll(existingProfiles);
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
+        // Save user profile
         Profile profile = new Profile(
                 userProfileProperties.get("id"),
                 userProfileProperties.get("firstName"),

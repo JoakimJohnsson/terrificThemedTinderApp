@@ -3,7 +3,7 @@ import {FC, useEffect, useState} from "react";
 import {Conversation as ConversationType, ConversationProps} from "../types";
 import {Message} from "./Message";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faFaceThinking, faSend, faTimes} from "@fortawesome/sharp-duotone-solid-svg-icons";
+import {faThoughtBubble, faSend, faTimes} from "@fortawesome/sharp-duotone-solid-svg-icons";
 import {fetchConversationById, sendMessage} from "../assets/functions.tsx";
 import {OverlaySpinner} from "./OverlaySpinner.tsx";
 
@@ -50,6 +50,11 @@ export const Conversation: FC<ConversationProps> = ({match}) => {
         :
         <div className={"columns is-flex is-justify-content-center"}>
             <div className={"column is-12-mobile is-8-tablet is-6-desktop is-4-fullhd"}>
+                <figure className="image is-96x96 pl-2">
+                    <img className={"is-rounded"}
+                         src={"http://localhost:8080/images/" + match?.profile?.imageUrl}
+                         alt={match?.profile?.firstName}/>
+                </figure>
                 {
                     currentConversation?.messages.map((message, index) => {
                         return message.authorId === CONFIG.USER_ID ?
@@ -61,10 +66,10 @@ export const Conversation: FC<ConversationProps> = ({match}) => {
                 {
                     loadingMessage &&
                     <div className={"p-2 fa-fade"}>
-                        <FontAwesomeIcon className={"me-2"} size={"2xl"} icon={faFaceThinking}/> Thinking about you...
+                        <FontAwesomeIcon className={"mr-2"} size={"2xl"} icon={faThoughtBubble}/>Thinking...
                     </div>
                 }
-                <div className={"p-2 pt-4"}>
+                <div className={"p-2"}>
                     <input
                         className="input is-inline-block mb-2"
                         type="text"
@@ -76,14 +81,16 @@ export const Conversation: FC<ConversationProps> = ({match}) => {
                             }
                         }}
                         placeholder="Text input"
-
                     />
                     <button className={"button is-primary mr-2"} onClick={handleSend} disabled={input === ""}>
                         <FontAwesomeIcon className={"mr-2"} icon={faSend}/> Send
                     </button>
-                    <button className={"button"} onClick={handleClear}>
-                        <FontAwesomeIcon className={"mr-2"} icon={faTimes}/> Clear
-                    </button>
+                    {
+                        input !== "" &&
+                        <button className={"button"} onClick={handleClear}>
+                            <FontAwesomeIcon className={"mr-2"} icon={faTimes}/> Clear input
+                        </button>
+                    }
                 </div>
             </div>
         </div>
